@@ -2,7 +2,7 @@ Package: aqm
 Type: Package
 Title: Data and functions for advanced quantitative methods
 Version: 1.0
-Date: 2015-11-18
+Date: 2019-02-18
 Author: Duncan Golicher
 Maintainer: <dgolicher@gmail.com>
 Description: 
