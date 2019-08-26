@@ -178,3 +178,26 @@ ablines2<-function (mod, ...)
   matlines(newdata[, 1], a,...)
 }
 
+
+# dune2.env <- read.delim ('https://raw.githubusercontent.com/zdealveindy/anadat-r/master/data/dune2.env.txt', row.names = 1)
+# dune2.traits <- read.delim ('https://raw.githubusercontent.com/zdealveindy/anadat-r/master/data/dune2.traits.txt', row.names = 1)
+# dune2.ell <- read.delim ('https://raw.githubusercontent.com/zdealveindy/anadat-r/master/data/dune2.ell.txt', row.names = 1)
+# 
+# dune_traits<-dune2.traits
+# dune_traits$species<-row.names(dune_traits)
+# dune_traits<-dune_traits[,6:1]
+# save(dune_traits,file="data/dune_traits.rda")
+# write.csv(dune_traits,"inst/extdata/dune_traits.csv",row.names=FALSE)
+
+# library(vegan)
+# library(tidyr)
+# data(dune)
+# 
+# dune$quad<-row.names(dune)
+# 
+# dune %>%
+#   pivot_longer(cols=-quad,names_to="species",values_to = "abundance")  %>% 
+#   filter(abundance>0) -> dune_long
+
+# save(dune_long,file="data/dune_long.rda")
+# write.csv(dune_long,"inst/extdata/dune_long.csv",row.names=FALSE)
