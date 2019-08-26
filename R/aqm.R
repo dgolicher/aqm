@@ -192,13 +192,13 @@ ablines2<-function (mod, ...)
 # library(vegan)
 # library(tidyr)
 # data(dune)
-# 
-# dune$quad<-row.names(dune)
-# 
+# # 
+# dune$quad<-as.numeric(row.names(dune))
+# # 
 # dune %>%
-#   pivot_longer(cols=-quad,names_to="species",values_to = "abundance")  %>% 
+#    pivot_longer(cols=-quad,names_to="species",values_to = "abundance")  %>% 
 #   filter(abundance>0) -> dune_long
-
+# 
 # save(dune_long,file="data/dune_long.rda")
 # write.csv(dune_long,"inst/extdata/dune_long.csv",row.names=FALSE)
 
