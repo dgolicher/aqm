@@ -201,3 +201,11 @@ ablines2<-function (mod, ...)
 
 # save(dune_long,file="data/dune_long.rda")
 # write.csv(dune_long,"inst/extdata/dune_long.csv",row.names=FALSE)
+
+# data("dune.env")
+# dune.env$quad<-1:20
+# dim(dune.env)
+# dune_env<-dune.env[,6:1]
+# 
+# save(dune_env,file="data/dune_env.rda")
+# write.csv(dune_env,"inst/extdata/dune_env.csv",row.names=FALSE)
