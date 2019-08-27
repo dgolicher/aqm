@@ -209,3 +209,10 @@ ablines2<-function (mod, ...)
 # 
 # save(dune_env,file="data/dune_env.rda")
 # write.csv(dune_env,"inst/extdata/dune_env.csv",row.names=FALSE)
+
+# data("dune.taxon")
+# dune.taxon$species<-row.names(dune.taxon)
+# names(dune.taxon)<-tolower(names(dune.taxon))
+# dune_taxon<-dune.taxon[,c(6,1:5)]
+# save(dune_taxon,file="data/dune_taxon.rda")
+# write.csv(dune_taxon,"inst/extdata/dune_taxon.csv",row.names=FALSE)
