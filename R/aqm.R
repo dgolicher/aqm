@@ -96,6 +96,30 @@ f_met<-function(nm="hurn",skip=7)
 }
 
 
+#' rand_likert: Form a vector of likert responses with given probabilities
+#'
+#' @param n Number of responses required
+#' @param p A vector of probabilities. Do not have to sum to 1
+#'
+#' @return A vector of Likert responses
+#' @export
+#'
+#' @examples
+#' 
+#' q1<-rand_likert(n=100,p=c(1,1,1,1,1)) # Equal probabilites
+#' table(q1)
+#' 
+rand_likert<-function(n=1000, p=c(1,2,3,5,10))
+{
+  ## Form a vector of responses
+  lscale<-c("Strongly disagree","Disagree","Neutral","Agree","Strongly agree")
+  ## Sample 1000 times with replacement and unequal probability
+  lik<-sample(lscale,n,replace=TRUE,prob=p)
+  ## Turn the response into an ordered factor
+  lik<-factor(lik,lscale,ordered=TRUE) 
+  lik
+}
+
 
 Xpairs<-function (...) {
   require(mgcv)

@@ -1,0 +1,28 @@
+question,text,group
+q1,Staff are good at explaining things,teaching
+q2,Staff have made the subject interesting,teaching
+q3,The course is intellectually stimulating,teaching
+q4,My course has challenged me to achieve my best work,teaching
+q5,My course has provided me with opportunities to explore ideas or concepts in depth,learning
+q6,My course has provided me with opportunities to bring information and ideas together from different topics,learning
+q7,My course has provided me with opportunities to apply what I have learnt,learning
+q8,The criteria used in marking have been clear in advance,assessment
+q9,Marking and assessment has been fair,assessment
+q10,Feedback on my work has been timely,assessment
+q11,I have received helpful comments on my work,assessment
+q12,I have been able to contact staff when I needed to,support
+q13,I have received sufficient advice and guidance in relation to my course,support
+q14,Good advice was available when I needed to make study choices on my course,support
+q15,The course is well organised and running smoothly,organisation
+q16,The timetable works efficiently for me,organisation
+q17,Any changes in the course or teaching have been communicated effectively,organisation
+q18,The IT resources and facilities provided have supported my learning well,resources
+q19,"The library resources (e.g. books, online services and learning spaces) have supported my learning well",resources
+q20,"I have been able to access course-specific resources (e.g. equipment, facilities, software, collections) when I needed to",resources
+q21,I feel part of a community of staff and students,community
+q22,I have had the right opportunities to work with other students as part of my course,community
+q23,I have had the right opportunities to provide feedback on my course,voice
+q24,Staff value students’ views and opinions about the course,voice
+q25,It is clear how students’ feedback on the course has been acted on,voice
+q26,The students’ union (association or guild) effectively represents students’ academic interests,union
+q27,"Overall, I am satisfied with the quality of the course",overall
