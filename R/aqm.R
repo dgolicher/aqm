@@ -121,6 +121,69 @@ rand_likert<-function(n=1000, p=c(1,2,3,5,10))
 }
 
 
+#' beta_likert
+#' 
+#' A function to simulate responses on the Likert scale
+#' with probabilities which follow a beta distribution
+#' 
+#'
+#' @param n 
+#' @param mean 
+#' @param sd 
+#'
+#' @return
+#' @export
+#'
+#' @examples
+#' 
+#' ## Symetrical around neutral
+#' table(beta_likert(mean=0.5,sd=0.4))
+#' 
+#' ## Marmite response, but on the side of agree overall
+#' 
+#' table(beta_likert(mean=0.7,sd=0.8))
+#' 
+#' ## Strongly disagree
+#' 
+#' table(beta_likert(mean=0.1,sd=0.2))
+#' 
+beta_likert<-function(n=100,mean=0.5,sd=0.5){
+  x<-seq(0.1,0.9,length=5)
+  p<-dmbeta(x,mean=mean,sd=sd)
+    ## Form a vector of responses
+    lscale<-c("Strongly disagree","Disagree","Neutral","Agree","Strongly agree")
+    ## Sample 1000 times with replacement and unequal probability
+    lik<-sample(lscale,n,replace=TRUE,prob=p)
+    ## Turn the response into an ordered factor
+    lik<-factor(lik,lscale,ordered=TRUE) 
+    lik
+}
+
+
+#' Title
+#'
+#' Takes a vector of means between 0.1 and 0.9 and returns 
+#' random Likert values.
+#' The larger the given sd the greater the random variability around the mean
+#' So the function can be used to simulate correlated responses if
+#' from a latent factor.
+#'  
+#'
+#' @param x 
+#' @param sd 
+#'
+#' @return
+#' @export
+#'
+#' @examples
+#' 
+#' 
+beta_likert_vec<-function(x=seq(0.1,0.9,length=100),sd=0.5){
+  unlist(lapply(x,function(x)beta_likert(n=1,mean=x,sd=sd)))
+}
+
+
+
 Xpairs<-function (...) {
   require(mgcv)
   panel.line<-function (x, y, col = par("col"), bg = NA, pch = par("pch"), 
@@ -201,6 +264,45 @@ ablines2<-function (mod, ...)
   a<-data.frame(a$fit,a$upper,a$lower)
   matlines(newdata[, 1], a,...)
 }
+
+
+
+#' Reparameterise the beta distribution in terms of mean and sd
+#'
+#' Produces a vector of random numbers between 0 and 1 with a given mean and sd
+#' @param n 
+#' @param mean 
+#' @param sd 
+#'
+#' @return
+#' @export
+#'
+#' @examples
+#' 
+#' hist(rmbeta(n=1000,mean=0.1))
+#' 
+rmbeta<-function(n=1000,mean=0.5,sd=0.2){
+  a <- mean / (sd * sd)
+  b <- (1-mean) / (sd * sd)
+  rbeta(n,a,b)
+}
+
+#' Find density of reparameterised beta distribution
+#'
+#' @param x 
+#' @param mean 
+#' @param sd 
+#'
+#' @return
+#' @export
+#'
+#' @examples
+dmbeta<-function(x=seq(0,1,length=1000),mean=0.5,sd=0.2){
+  a <- mean / (sd * sd)
+  b <- (1-mean) / (sd * sd)
+  dbeta(x,a,b)
+}
+
 
 
 # dune2.env <- read.delim ('https://raw.githubusercontent.com/zdealveindy/anadat-r/master/data/dune2.env.txt', row.names = 1)
