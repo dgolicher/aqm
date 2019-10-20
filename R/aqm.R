@@ -179,7 +179,10 @@ beta_likert<-function(n=100,mean=0.5,sd=0.5){
 #' 
 #' 
 beta_likert_vec<-function(x=seq(0.1,0.9,length=100),sd=0.5){
-  unlist(lapply(x,function(x)beta_likert(n=1,mean=x,sd=sd)))
+  lscale<-c("Strongly disagree","Disagree","Neutral","Agree","Strongly agree")
+  lik<-unlist(lapply(x,function(x)beta_likert(n=1,mean=x,sd=sd)))
+  lik<-factor(lik,lscale,ordered=TRUE) 
+  lik
 }
 
 
