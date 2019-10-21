@@ -185,7 +185,24 @@ beta_likert_vec<-function(x=seq(0.1,0.9,length=100),sd=0.5){
   lik
 }
 
-
+#' Converts numerical data on a scale of 1 to 5 to Likert text
+#'
+#'The function returns an ordinal factor.
+#'
+#' @param x 
+#'
+#' @return
+#' @export
+#'
+#' @examples
+#' 
+#' 
+num_to_likert<-function(x){
+  lscale<-c("Strongly disagree","Disagree","Neutral","Agree","Strongly agree")
+  lik<-factor(x,1:5,ordered=TRUE)
+  levels(lik)<-lscale
+  lik
+}
 
 Xpairs<-function (...) {
   require(mgcv)
