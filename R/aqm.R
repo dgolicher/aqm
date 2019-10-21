@@ -196,6 +196,10 @@ beta_likert_vec<-function(x=seq(0.1,0.9,length=100),sd=0.5){
 #'
 #' @examples
 #' 
+#' x<-sample(1:5, 100,replace=TRUE)
+#' x
+#' num_to_likert(x)
+#' 
 #' 
 num_to_likert<-function(x){
   lscale<-c("Strongly disagree","Disagree","Neutral","Agree","Strongly agree")

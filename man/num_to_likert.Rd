@@ -14,5 +14,9 @@ The function returns an ordinal factor.
 }
 \examples{
 
+x<-sample(1:5, 100,replace=TRUE)
+x
+num_to_likert(x)
+
 
 }
