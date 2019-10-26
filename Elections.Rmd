@@ -1,0 +1,92 @@
+---
+title: "Elections"
+author: "Duncan Golicher"
+date: "25/10/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(aqm)
+library(mapview)
+library(tidyr)
+library(dplyr)
+
+data(ge2017)
+data(ge2015)
+
+
+ge2015 %>% filter(party=="UKIP") ->ukip
+ukip[,c(1,6)] -> ukip
+names(ukip)<-c("CODE","UKIP_2015")
+data(carto)
+names(ge2017)[1]<-"CODE"
+ge2017<-merge(ge2017,ukip)
+ge2017$ukip_percent<-round(100*ge2017$UKIP_2015/ge2017$total,1)
+carto<-merge(carto,ge2017)
+```
+
+
+```{r}
+all_parties<-c('blue','darkblue','green','grey','red','orange','darkgreen','black', 'darkorange')
+
+carto %>% filter(rank==1) %>% select(c(3:9,11))%>%
+  mapview(zcol="party", col.regions=all_parties)
+```
+
+
+```{r}
+library(sf)
+carto %>% filter(rank==1) %>% select(c(3:9,11))%>%st_set_geometry(NULL) %>% dt()
+```
+
+```{r}
+exclude<-levels(carto$Region_Nam)[6:7]
+carto %>% filter(! Region_Nam %in% exclude) -> carto
+```
+
+
+```{r}
+carto %>% st_set_geometry(NULL) %>% filter(rank==1) %>% group_by(party) %>% summarise(n=n())
+
+
+```
+
+```{r}
+carto %>% st_set_geometry(NULL) %>% group_by(party) %>% summarise(tot=sum(votes)) %>% mutate(percent = round(100*tot / sum(tot),1))
+```
+
+
+```{r}
+carto %>% st_set_geometry(NULL)%>% pivot_wider(id_cols= CODE,names_from = party,values_from = votes,values_fill = list(votes=0), values_fn =list(votes=sum)) -> wide
+
+mat<-as.matrix(wide[,-1])
+change<-diag(9)
+change[4,]<-c(0,0.3,0,0.6,0.1,0,0,0,0)
+change[5,]<-c(0,0.2,0.1,0.1,0.6,0,0,0,0)
+mat2<-mat %*% change 
+round(sum(apply(mat,1,sum) -apply(mat2,1,sum)),4)
+
+```
+
+
+```{r}
+wide[,-1]<-mat2
+wide %>% pivot_longer(cols=-CODE,names_to="party",values_to = "votes") %>% filter(votes>0) %>% group_by(CODE) %>% mutate(total=sum(votes)) %>%
+  mutate(percent=round(100*votes/total,1)) %>% mutate(rank= rank(-votes,ties="first")) %>% mutate(margin=votes[rank==1]-votes[rank==2])-> sim
+```
+
+
+```{r}
+sim %>% filter(rank==1) %>% group_by(party) %>% summarise(n=n())
+```
+
+
+```{r}
+sim %>% group_by(party) %>% summarise(tot=sum(votes)) %>% mutate(percent = round(100*tot / sum(tot),1))
+```
+
