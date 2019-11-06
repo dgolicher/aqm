@@ -1,0 +1,456 @@
+"Year","Site","Species","FlushDist","FlightTime"
+2002,"Stubborn sand","OC",122,4
+2002,"Stubborn sand","BA",88,5
+2002,"Heacham S","BA",179,23
+2002,"Heacham S","BA",109,34
+2002,"Heacham S","DN",25.5,9
+2002,"Heacham S","DN",40,4
+2002,"Heacham S","DN",40,4
+2002,"Heacham S","DN",89.2,7
+2002,"Heacham S","DN",42,18
+2002,"Heacham S","DN",27,17
+2002,"Heacham S","DN",56,5
+2002,"Heacham S","DN",44,6.5
+2002,"Heacham S","DN",35,32
+2002,"Heacham S","OC",172.5,13
+2002,"Heacham S","OC",114,17
+2002,"Heacham S","OC",102,14
+2002,"Heacham S","OC",113,17
+2002,"Heacham S","OC",105,18
+2002,"Leverton","BA",88,42.5
+2002,"Leverton","BA",151,34.7
+2002,"Leverton","BA",196,51.3
+2002,"Leverton","BA",109,20
+2002,"Leverton","DN",34,5.7
+2002,"Leverton","DN",52,24.7
+2002,"Leverton","DN",53,13
+2002,"Leverton","KN",33,29.5
+2002,"Leverton","OC",107,30
+2002,"Leverton","OC",183,15.7
+2002,"Leverton","OC",228,37.2
+2002,"Snettisham","BA",188,26.6
+2002,"Snettisham","DN",86,53
+2002,"Snettisham","OC",226,24
+2002,"Snettisham","OC",193,37.2
+2002,"Snettisham","OC",121,20.5
+2002,"Snettisham","OC",146,52.8
+2002,"Snettisham","OC",177,35.3
+2002,"Wrangle","DN",31,32.9
+2002,"Wrangle","DN",14,14.2
+2002,"Wrangle","DN",11,10.3
+2002,"Wrangle","DN",13,8.8
+2002,"Wrangle","DN",21,15.7
+2002,"Wrangle","KN",36,29.6
+2002,"Wrangle","OC",158,32.3
+2002,"Heacham N","BA",225,28.7
+2002,"Heacham N","BA",104,23.5
+2002,"Heacham N","BA",166,33.7
+2002,"Heacham N","BA",97,41.7
+2002,"Heacham N","BA",97,52
+2002,"Heacham N","KN",20,16.3
+2002,"Heacham N","KN",27,23.9
+2002,"Heacham N","KN",26,48.1
+2002,"Heacham N","OC",79,41
+2002,"Heacham N","OC",117,26.6
+2002,"Snettisham","DN",35,9
+2002,"Snettisham","DN",24.5,14
+2002,"Snettisham","DN",33,7
+2002,"Snettisham","DN",30,11
+2002,"Snettisham","KN",52,17
+2002,"Snettisham","KN",67.5,11
+2002,"Snettisham","KN",53,11
+2002,"Snettisham","KN",44,27
+2002,"Snettisham","KN",45,16
+2002,"Snettisham","KN",36,6
+2003,"Wrangle","OC",138,57
+2003,"Wrangle","OC",142,53
+2003,"Wrangle","OC",157,38
+2003,"Heacham","BA",101,26
+2003,"Heacham","BA",95,43
+2003,"Heacham","BA",154,33
+2003,"Heacham","BA",106,40
+2003,"Heacham","BA",143,28
+2003,"Heacham","BA",103,36
+2003,"Heacham","DN",40,17
+2003,"Heacham","DN",35,8
+2003,"Heacham","DN",56,18
+2003,"Heacham","DN",32,22
+2003,"Heacham","DN",18,12
+2003,"Heacham","DN",18,25
+2003,"Heacham","KN",108,15
+2003,"Heacham","KN",102,26
+2003,"Heacham","OC",116,16
+2003,"Heacham","OC",96,18
+2003,"Heacham","OC",81,6
+2003,"Heacham","OC",87,35
+2003,"Heacham","OC",66,21
+2003,"Maretail","KN",120,23
+2003,"Maretail","KN",82,12
+2003,"Maretail","KN",108,11
+2003,"Maretail","OC",87,15
+2003,"Maretail","OC",72,6
+2003,"Maretail","OC",113,15
+2003,"Maretail","OC",117,14
+2003,"Heacham","BA",109,14
+2003,"Heacham","BA",107,11
+2003,"Heacham","BA",118,17
+2003,"Heacham","BA",57,8
+2003,"Heacham","BA",33,15
+2003,"Heacham","DN",42,7
+2003,"Heacham","DN",27,7
+2003,"Heacham","DN",15,12
+2003,"Heacham","DN",34,5
+2003,"Heacham","DN",24,14
+2003,"Heacham","KN",59,16
+2003,"Heacham","KN",73,15
+2003,"Heacham","OC",54,14
+2003,"Heacham","OC",73,37
+2003,"Heacham","OC",55,11
+2003,"Heacham","OC",55,11
+2003,"Heacham","OC",76,7
+2003,"Heacham","OC",57,34
+2003,"Heacham","BA",59,10
+2003,"Heacham","DN",13,7
+2003,"Heacham","DN",23,12
+2003,"Heacham","DN",17,11
+2003,"Heacham","DN",15,7
+2003,"Heacham","DN",9,7
+2003,"Heacham","OC",68,14
+2003,"Heacham","OC",63,19
+2003,"Heacham","OC",81,8
+2003,"Heacham","BA",33,7
+2003,"Heacham","BA",67,27
+2003,"Heacham","BA",55,10
+2003,"Heacham","BA",46,19
+2003,"Heacham","BA",79,15
+2003,"Heacham","BA",76,10
+2003,"Heacham","KN",67,18
+2003,"Heacham","KN",59,14
+2003,"Heacham","KN",56,11
+2003,"Heacham","KN",56,14
+2003,"Heacham","OC",91,17
+2003,"Heacham","OC",98,8
+2003,"Heacham","OC",45,10
+2003,"Heacham","OC",54,20
+2003,"Heacham","OC",80,17
+2003,"Heacham","OC",83,28
+2003,"Heacham","OC",76,14
+2003,"Leverton","BA",48,15
+2003,"Leverton","BA",106,15
+2003,"Leverton","DN",27,13
+2003,"Leverton","DN",25,11
+2003,"Leverton","KN",60,9
+2003,"Leverton","KN",47,7
+2003,"Leverton","KN",104,13
+2003,"Leverton","KN",75,21
+2003,"Leverton","KN",61,21
+2003,"Leverton","OC",33,9
+2003,"Leverton","OC",84,31
+2003,"Leverton","OC",75,26
+2003,"Leverton","OC",115,11
+2003,"Leverton","OC",98,33
+2003,"Wrangle","OC",91,20
+2003,"Snettisham","BA",68,34
+2003,"Snettisham","BA",104,13
+2003,"Snettisham","BA",86,17
+2003,"Snettisham","BA",68,18
+2003,"Snettisham","DN",26,7
+2003,"Snettisham","KN",45,14
+2003,"Snettisham","KN",44,14
+2003,"Snettisham","KN",35,19
+2003,"Snettisham","KN",51,14
+2003,"Snettisham","OC",85,23
+2003,"Snettisham","OC",67,20
+2003,"Snettisham","OC",84,13
+2003,"Snettisham","OC",69,24
+2003,"Leverton","DN",93,9
+2003,"Leverton","DN",41,23
+2003,"Leverton","DN",49,15
+2003,"Leverton","DN",101,15
+2003,"Leverton","DN",52,12
+2003,"Leverton","DN",48,25
+2003,"Leverton","OC",100,19
+2003,"Leverton","OC",126,18
+2003,"Leverton","OC",103,20
+2003,"Leverton","OC",127,20
+2003,"Leverton","OC",194,47
+2003,"Leverton","OC",82,21
+2003,"Leverton","BA",113,36
+2003,"Leverton","BA",72,29
+2003,"Leverton","DN",97,13
+2003,"Leverton","DN",194,28
+2003,"Leverton","KN",47,16
+2003,"Leverton","KN",71,9
+2003,"Leverton","KN",66,12
+2003,"Leverton","OC",86,17
+2003,"Leverton","OC",115,25
+2003,"Leverton","OC",109,35
+2003,"Leverton","OC",123,16
+2003,"Snettisham","BA",124,16
+2003,"Snettisham","DN",83,18
+2003,"Snettisham","DN",51,13
+2003,"Snettisham","DN",98,11
+2003,"Snettisham","DN",93,14
+2003,"Snettisham","DN",136,18
+2003,"Snettisham","DN",55,10
+2003,"Snettisham","DN",71,11
+2003,"Snettisham","DN",77,21
+2003,"Snettisham","DN",35,9
+2003,"Snettisham","DN",67,10
+2003,"Snettisham","DN",38,15
+2003,"Snettisham","DN",63,10
+2003,"Snettisham","KN",89,9
+2003,"Snettisham","KN",62,9
+2003,"Snettisham","KN",120,13
+2003,"Snettisham","OC",107,9
+2003,"Snettisham","OC",70,23
+2003,"Snettisham","OC",82,19
+2003,"Snettisham","OC",73,29
+2003,"Snettisham","BA",65,22
+2003,"Snettisham","BA",88,53
+2003,"Snettisham","BA",75,29
+2003,"Snettisham","BA",115,14
+2003,"Snettisham","DN",38,28
+2003,"Snettisham","DN",32,26
+2003,"Snettisham","DN",80,20
+2003,"Snettisham","DN",37,9
+2003,"Snettisham","KN",55,17
+2003,"Snettisham","KN",109,22
+2003,"Snettisham","OC",68,24
+2003,"Snettisham","OC",99,13
+2003,"Snettisham","OC",87,18
+2003,"Snettisham","OC",99,31
+2003,"Snettisham","OC",88,55
+2003,"Sutton Br","DN",30,26
+2003,"Sutton Br","DN",24,14
+2003,"Sutton Br","DN",26,15
+2003,"Sutton Br","DN",29,12
+2003,"Sutton Br","DN",145,11
+2003,"Sutton Br","DN",58,22
+2003,"Sutton Br","DN",43,41
+2003,"Sutton Br","DN",51,15
+2003,"Sutton Br","DN",36,19
+2003,"Sutton Br","KN",74,23
+2003,"Sutton Br","KN",61,43
+2003,"Sutton Br","KN",92,28
+2003,"Sutton Br","KN",117,11
+2003,"Sutton Br","OC",171,40
+2003,"Sutton Br","OC",119,10
+2003,"Sutton Br","OC",135,20
+2003,"Sutton Br","OC",177,11
+2003,"Sutton Br","OC",137,14
+2003,"Sutton Br","OC",126,26
+2004,"Leverton","BA",70,23
+2004,"Leverton","BA",91,9
+2004,"Leverton","BA",95,39
+2004,"Leverton","DN",24,10
+2004,"Leverton","DN",65,36
+2004,"Leverton","DN",64,16
+2004,"Leverton","DN",49,24
+2004,"Leverton","DN",66,26
+2004,"Leverton","KN",103,44
+2004,"Leverton","KN",83,59
+2004,"Leverton","KN",160,34
+2004,"Leverton","KN",108,29
+2004,"Leverton","KN",82,26
+2004,"Leverton","OC",132,20
+2004,"Leverton","OC",71,20
+2004,"Leverton","OC",141,18
+2004,"Leverton","OC",117,19
+2004,"Leverton","OC",115,18
+2004,"Heacham","BA",56,50
+2004,"Heacham","BA",110,17
+2004,"Heacham","BA",95,28
+2004,"Heacham","BA",68,24
+2004,"Heacham","BA",90,9
+2004,"Heacham","BA",71,22
+2004,"Heacham","DN",17,9
+2004,"Heacham","KN",41,11
+2004,"Heacham","KN",74,9
+2004,"Heacham","KN",65,35
+2004,"Heacham","OC",89,22
+2004,"Heacham","OC",54,30
+2004,"Heacham","OC",84,28
+2004,"Heacham","OC",91,19
+2004,"Heacham","OC",113,27
+2004,"Heacham","OC",81,14
+2004,"Maretail","KN",108,7
+2004,"Maretail","KN",75,13
+2004,"Maretail","KN",71,10
+2004,"Maretail","DN",42,27
+2004,"Maretail","DN",29,18
+2004,"Maretail","KN",75,15
+2004,"Maretail","KN",109,36
+2004,"Maretail","OC",105,25
+2004,"Maretail","OC",123,16
+2004,"Heacham","BA",32,6
+2004,"Heacham","BA",33,5
+2004,"Heacham","BA",46,7
+2004,"Heacham","BA",35,9
+2004,"Heacham","BA",58,9
+2004,"Heacham","DN",25,8
+2004,"Heacham","DN",32,5
+2004,"Heacham","DN",37,13
+2004,"Heacham","KN",76,37
+2004,"Heacham","KN",69,10
+2004,"Heacham","OC",47,11
+2004,"Heacham","OC",49,24
+2004,"Heacham","OC",79,9
+2004,"Heacham","OC",75,8
+2004,"Heacham","OC",117,11
+2004,"Heacham","OC",107,10
+2004,"Heacham","OC",37,12
+2004,"Ferrier","DN",27,6
+2004,"Ferrier","DN",37,6
+2004,"Ferrier","DN",26,6
+2004,"Ferrier","DN",20,21
+2004,"Snettisham","BA",94,24
+2004,"Snettisham","BA",61,11
+2004,"Snettisham","BA",104,47
+2004,"Snettisham","BA",64,24
+2004,"Snettisham","DN",93,15
+2004,"Snettisham","DN",93,11
+2004,"Snettisham","DN",75,11
+2004,"Snettisham","DN",74,5
+2004,"Snettisham","KN",39,49
+2004,"Snettisham","KN",136,21
+2004,"Snettisham","KN",50,25
+2004,"Snettisham","KN",104,29
+2004,"Snettisham","KN",96,16
+2004,"Snettisham","KN",84,13
+2004,"Snettisham","OC",124,23
+2004,"Snettisham","OC",98,12
+2004,"Snettisham","OC",59,28
+2004,"Snettisham","OC",121,30
+2004,"Snettisham","OC",156,60
+2004,"Snettisham","OC",76,25
+2004,"Snettisham","OC",77,20
+2004,"Snettisham","OC",123,28
+2004,"Snettisham","OC",37,19
+2004,"Wrangle","OC",79,21
+2004,"Wrangle","OC",146,10
+2004,"Wrangle","OC",135,30
+2004,"Wrangle","OC",115,18
+2004,"Heacham","BA",58,19
+2004,"Heacham","BA",67,17
+2004,"Heacham","BA",40,16
+2004,"Heacham","BA",36,8
+2004,"Heacham","BA",62,17
+2004,"Heacham","BA",57,8
+2004,"Heacham","BA",51,10
+2004,"Heacham","BA",83,11
+2004,"Heacham","BA",57,10
+2004,"Heacham","BA",44,18
+2004,"Heacham","BA",62,22
+2004,"Heacham","BA",54,16
+2004,"Heacham","BA",56,10
+2004,"Heacham","BA",51,10
+2004,"Heacham","KN",50,37
+2004,"Heacham","KN",63,39
+2004,"Heacham","KN",68,6
+2004,"Heacham","KN",50,12
+2004,"Heacham","OC",55,20
+2004,"Heacham","OC",30,6
+2004,"Heacham","OC",63,17
+2004,"Heacham","OC",82,29
+2004,"Heacham","OC",92,18
+2004,"Heacham","OC",80,8
+2004,"Heacham","OC",78,13
+2004,"Heacham","OC",70,13
+2004,"Heacham","OC",104,19
+2004,"Leverton","BA",104,10
+2004,"Leverton","BA",75,26
+2004,"Leverton","BA",61,22
+2004,"Leverton","DN",38,21
+2004,"Leverton","DN",35,7
+2004,"Leverton","DN",28,6
+2004,"Leverton","DN",28,5
+2004,"Leverton","DN",17,8
+2004,"Leverton","DN",30,3
+2004,"Leverton","DN",26,6
+2004,"Leverton","DN",56,5
+2004,"Leverton","DN",43,10
+2004,"Leverton","DN",37,13
+2004,"Leverton","KN",240,16
+2004,"Leverton","KN",51,16
+2004,"Leverton","OC",120,9
+2004,"Leverton","OC",61,8
+2004,"Leverton","OC",96,12
+2004,"Leverton","OC",106,22
+2004,"Leverton","OC",86,15
+2004,"Heacham","BA",108,13
+2004,"Heacham","BA",87,21
+2004,"Heacham","DN",31,9
+2004,"Heacham","DN",49,15
+2004,"Heacham","DN",16,16
+2004,"Heacham","DN",14,11
+2004,"Heacham","OC",64,14
+2004,"Heacham","OC",55,14
+2004,"Heacham","OC",59,10
+2004,"Heacham","OC",71,25
+2004,"Heacham","OC",84,29
+2004,"Wrangle","BA",167,20
+2004,"Wrangle","BA",146,20
+2004,"Wrangle","BA",191,13
+2004,"Wrangle","DN",32,25
+2004,"Wrangle","DN",42,23
+2004,"Leverton","KN",27,20
+2004,"Leverton","KN",57,12
+2004,"Wrangle","KN",58,19
+2004,"Wrangle","KN",32,16
+2004,"Wrangle","OC",114,14
+2004,"Wrangle","OC",124,37
+2004,"Wrangle","OC",84,16
+2004,"Leverton","OC",105,33
+2004,"Dawsmere","OC",106,11
+2004,"Dawsmere","OC",112,15
+2004,"Dawsmere","OC",115,44
+2004,"Heacham","BA",60,9
+2004,"Heacham","BA",98,11
+2004,"Heacham","BA",66,7
+2004,"Heacham","BA",49,9
+2004,"Heacham","BA",57,9
+2004,"Heacham","BA",38,5
+2004,"Heacham","BA",55,25
+2004,"Heacham","BA",104,15
+2004,"Heacham","BA",61,20
+2004,"Heacham","DN",41,15
+2004,"Heacham","DN",24,8
+2004,"Heacham","DN",19,13
+2004,"Heacham","KN",38,10
+2004,"Heacham","KN",36,19
+2004,"Heacham","KN",32,8
+2004,"Heacham","OC",54,12
+2004,"Heacham","OC",89,38
+2004,"Heacham","OC",66,24
+2004,"Leverton","BA",88,9
+2004,"Leverton","BA",101,21
+2004,"Leverton","DN",17,5
+2004,"Leverton","DN",48,5
+2004,"Leverton","DN",15,14
+2004,"Leverton","DN",34,14
+2004,"Leverton","DN",16,6
+2004,"Leverton","KN",41,18
+2004,"Leverton","KN",29,8
+2004,"Leverton","KN",64,11
+2004,"Leverton","OC",81,10
+2004,"Leverton","OC",53,15
+2004,"Leverton","OC",58,8
+2004,"Leverton","OC",102,61
+2004,"Leverton","OC",112,14
+2004,"Heacham","OC",70,15
+2004,"Heacham","OC",74,14
+2004,"Heacham","OC",102,17
+2004,"Heacham","KN",104,25
+2004,"Heacham","KN",81,9
+2004,"Heacham","KN",77,14
+2004,"Heacham","BA",96,23
+2004,"Heacham","OC",85,13
+2004,"Heacham","KN",80,18
+2004,"Heacham","DN",39,6
+2004,"Heacham","DN",25,8
+2004,"Heacham","DN",41,14
+2004,"Heacham","DN",33,14
+2004,"Heacham","DN",44,30
+2004,"Heacham","DN",67,9
+2004,"Leverton","OC",111,31

@@ -1,0 +1,382 @@
+"","artist","album_name","track_name","danceability","energy","key","loudness","mode","speechiness","acousticness","instrumentalness","liveness","valence","tempo","duration_ms","track_popularity"
+"1","Oasis","Be Here Now","D'You Know What I Mean?",0.312,0.886,"B",-3.244,"minor",0.0427,7.32e-05,0.000161,0.0885,0.251,80.025,462227,0
+"2","Oasis","Be Here Now","My Big Mouth",0.367,0.988,"F",-1.071,"major",0.0706,0.00425,7.58e-06,0.0486,0.327,135.043,302600,0
+"3","Oasis","Be Here Now","Magic Pie",0.327,0.895,"C",-3.064,"major",0.0476,0.134,0.00206,0.385,0.295,148.348,439373,0
+"4","Oasis","Be Here Now","Stand by Me",0.214,0.828,"G",-2.66,"major",0.0383,0.0142,1.61e-06,0.161,0.388,169.876,356600,0
+"5","Oasis","Be Here Now","I Hope, I Think, I Know",0.355,0.978,"D",-2.331,"major",0.0596,0.000657,0.00495,0.448,0.19,137.059,262427,0
+"6","Oasis","Be Here Now","The Girl in the Dirty Shirt",0.389,0.905,"G",-3.126,"major",0.0352,0.127,0,0.382,0.315,166.128,347400,0
+"7","Oasis","Be Here Now","Fade In-Out",0.399,0.729,"G",-5.515,"major",0.0333,0.0126,0.000324,0.368,0.181,85.993,412293,0
+"8","Oasis","Be Here Now","Don't Go Away",0.426,0.838,"C",-4.38,"major",0.0362,0.0532,3.02e-06,0.0829,0.182,81.089,288600,0
+"9","Oasis","Be Here Now","Be Here Now",0.486,0.913,"A",-2.175,"major",0.0394,0.0122,0.498,0.446,0.308,112.07,313200,0
+"10","Oasis","Be Here Now","All Around the World",0.366,0.831,"G",-3.449,"major",0.0429,0.00572,0.00162,0.484,0.339,82.04,560000,0
+"11","Oasis","Be Here Now","It's Gettin' Better (Man!!)",0.368,0.92,"D",-1.931,"major",0.0627,0.000201,0.167,0.418,0.151,126.133,419973,0
+"12","Oasis","Be Here Now","All Around the World - Reprise",0.307,0.841,"D",-5.759,"major",0.0496,0.00035,0.866,0.477,0.183,81.944,128067,0
+"13","Oasis","The Masterplan","Acquiesce",0.218,0.959,"G",-1.783,"major",0.0705,0.00687,0.000128,0.423,0.259,111.703,264960,14
+"14","Oasis","The Masterplan","Underneath The Sky",0.486,0.945,"B",-3.631,"minor",0.054,0.00197,0,0.721,0.814,124.015,201133,11
+"15","Oasis","The Masterplan","Talk Tonight",0.38,0.454,"E",-8.449,"minor",0.026,0.477,1.39e-05,0.372,0.351,85.351,261107,14
+"16","Oasis","The Masterplan","Going Nowhere",0.497,0.729,"F",-3.685,"major",0.0301,0.263,0,0.357,0.104,107.014,279427,12
+"17","Oasis","The Masterplan","Fade Away",0.082,0.69,"D",-3.269,"major",0.0486,3.18e-05,0.658,0.385,0.239,76.351,253040,12
+"18","Oasis","The Masterplan","The Swamp Song",0.192,0.963,"G",-1.899,"minor",0.0671,0.000825,0.971,0.158,0.184,142.65,259667,8
+"19","Oasis","The Masterplan","I Am The Walrus",0.231,0.983,"E",-3.295,"major",0.149,2.92e-05,0.661,0.372,0.0391,99.254,385293,17
+"20","Oasis","The Masterplan","Listen Up",0.236,0.906,"A",-2.475,"major",0.0603,0.0205,0.0189,0.365,0.355,98.306,381133,15
+"21","Oasis","The Masterplan","Rockin' Chair",0.518,0.912,"A",-3.976,"minor",0.0341,0.00241,0,0.0644,0.306,126.008,275840,12
+"22","Oasis","The Masterplan","Half The World Away",0.426,0.454,"C",-8.68,"major",0.033,0.291,0,0.0769,0.223,115.711,261800,12
+"23","Oasis","The Masterplan","(It's Good) To Be Free",0.318,0.911,"E",-3.04,"minor",0.0556,0.0031,0.0107,0.686,0.355,100.047,258827,12
+"24","Oasis","The Masterplan","Stay Young",0.398,0.987,"D",-2.43,"major",0.0689,0.00602,0.000988,0.331,0.217,126.001,305373,19
+"25","Oasis","The Masterplan","Headshrinker",0.158,0.9,"G",-2.141,"major",0.057,0.0495,7.34e-06,0.364,0.238,77.918,278293,11
+"26","Oasis","The Masterplan","The Masterplan",0.371,0.618,"G",-6.4,"major",0.0304,0.105,7.15e-05,0.0779,0.154,147.713,322640,15
+"27","Oasis","Standing On The Shoulder Of Giants","Fuckin' In The Bushes",0.374,0.807,"A",-8.645,"minor",0.0477,0.00134,0.0654,0.891,0.369,134.142,198467,39
+"28","Oasis","Standing On The Shoulder Of Giants","Go Let It Out",0.408,0.856,"D",-5.614,"major",0.0334,0.0107,5.51e-05,0.514,0.619,84.196,278400,44
+"29","Oasis","Standing On The Shoulder Of Giants","Who Feels Love?",0.322,0.801,"C",-5.722,"major",0.0382,0.185,0.0428,0.245,0.324,152.96,344227,39
+"30","Oasis","Standing On The Shoulder Of Giants","Put Yer Money Where Yer Mouth Is",0.404,0.924,"G#",-4.248,"major",0.0546,4.25e-06,2.84e-05,0.112,0.143,124.186,267160,23
+"31","Oasis","Standing On The Shoulder Of Giants","Little James",0.401,0.604,"C",-7.009,"major",0.0261,0.32,0.0381,0.275,0.141,82.026,255267,27
+"32","Oasis","Standing On The Shoulder Of Giants","Gas Panic!",0.369,0.681,"F",-6.006,"minor",0.042,0.0123,0.00389,0.356,0.233,147.795,368267,40
+"33","Oasis","Standing On The Shoulder Of Giants","Where Did It All Go Wrong?",0.377,0.728,"E",-5.07,"minor",0.0321,0.041,0,0.114,0.432,149.845,266600,40
+"34","Oasis","Standing On The Shoulder Of Giants","Sunday Morning Call",0.296,0.59,"G",-5.924,"major",0.0304,0.0364,0.0658,0.162,0.195,156.1,312640,42
+"35","Oasis","Standing On The Shoulder Of Giants","I Can See A Liar",0.347,0.768,"A",-5.713,"minor",0.0526,0.000397,0,0.384,0.318,128.038,192960,23
+"36","Oasis","Standing On The Shoulder Of Giants","Roll It Over",0.271,0.627,"A",-6.367,"major",0.0373,0.011,9.63e-05,0.109,0.164,131.714,391107,37
+"37","Oasis","Familiar To Millions - The Highlights","Go Let It Out - Live from Wembley Stadium, 2000",0.337,0.926,"D",-4.776,"major",0.0424,0.00018,0.0434,0.921,0.56,85.183,350960,29
+"38","Oasis","Familiar To Millions - The Highlights","Who Feels Love? - Live at Wembley Stadium, 2000",0.33,0.878,"C",-5.529,"major",0.0371,0.00131,0.0033,0.956,0.135,79.959,360267,27
+"39","Oasis","Familiar To Millions - The Highlights","Supersonic - Live at Wembley Stadium, 2000",0.303,0.99,"F#",-4.516,"minor",0.0775,6.55e-05,0.208,0.99,0.196,119.477,269773,30
+"40","Oasis","Familiar To Millions - The Highlights","Shakermaker - Live at Wembley Stadium, 2000",0.254,0.959,"E",-4.507,"major",0.0868,0.00416,0.0186,0.985,0.118,104.592,313227,26
+"41","Oasis","Familiar To Millions - The Highlights","Acquiesce - Live at Wembley Stadium, 2000",0.305,0.989,"F",-4.159,"major",0.161,0.00021,0.00218,0.981,0.118,125.352,246667,28
+"42","Oasis","Familiar To Millions - The Highlights","Gas Panic! - Live at Wembley Stadium, 2000",0.263,0.943,"F",-3.999,"minor",0.0597,0.000575,0.0752,0.986,0.348,147.876,481280,28
+"43","Oasis","Familiar To Millions - The Highlights","Roll With It - Live at Wembley Stadium, 2000",0.243,0.983,"A",-4.504,"minor",0.101,0.00149,2.98e-05,0.938,0.284,131.639,283320,26
+"44","Oasis","Familiar To Millions - The Highlights","Wonderwall - Live at Wembley Stadium, 2000",0.142,0.903,"F#",-4.806,"minor",0.05,0.018,0.00682,0.978,0.383,93.183,273920,29
+"45","Oasis","Familiar To Millions - The Highlights","Cigarettes & Alcohol - Live at Wembley Stadium, 2000",0.163,0.949,"A",-4.117,"major",0.0681,0.00055,0.0155,0.974,0.156,131.029,412547,26
+"46","Oasis","Familiar To Millions - The Highlights","Don't Look Back In Anger - Live at Wembley Stadium, 2000",0.271,0.932,"C",-4.892,"major",0.0584,0.0209,0.011,0.977,0.245,85.267,309267,31
+"47","Oasis","Familiar To Millions - The Highlights","Live Forever - Live at Wembley Stadium, 2000",0.222,0.929,"A",-4.051,"minor",0.063,0.00967,0.127,0.962,0.219,91.172,292600,29
+"48","Oasis","Familiar To Millions - The Highlights","Champagne Supernova - Live at Wembley Stadium, 2000",0.164,0.894,"D",-4.7,"major",0.0494,0.00511,0.00219,0.986,0.127,82.707,391307,27
+"49","Oasis","Familiar To Millions - The Highlights","Rock 'N' Roll Star - Live at Wembley Stadium, 2000",0.146,0.989,"E",-3.234,"major",0.121,0.00289,0.427,0.955,0.136,139.125,384173,25
+"50","Oasis","Fmiliar to millions","Fuckin' In The Bushes(Live)",0.362,0.965,"C",-6.536,"major",0.0737,0.0015,0.0359,0.982,0.124,100.522,184573,10
+"51","Oasis","Fmiliar to millions","Go Let It Out!(Live)",0.343,0.936,"D",-4.353,"major",0.0433,0.000126,0.0583,0.918,0.545,85.186,331827,10
+"52","Oasis","Fmiliar to millions","Who Feels Love?(Live)",0.332,0.883,"A",-5.383,"minor",0.0365,0.000841,0.00686,0.961,0.206,79.978,360000,9
+"53","Oasis","Fmiliar to millions","Supersonic(Live)",0.3,0.991,"F#",-4.495,"minor",0.0682,6.89e-05,0.227,0.989,0.188,119.222,272107,12
+"54","Oasis","Fmiliar to millions","Shakermaker(Live)",0.264,0.95,"E",-4.374,"major",0.0739,0.00346,0.0165,0.972,0.112,104.902,310600,8
+"55","Oasis","Fmiliar to millions","Acquiesce(Live)",0.261,0.99,"F",-4.124,"major",0.169,0.000387,0.00712,0.969,0.12,125.134,259293,11
+"56","Oasis","Fmiliar to millions","Step Out (Live)",0.229,0.979,"G",-3.802,"major",0.075,0.000102,0.244,0.987,0.3,137.73,244773,8
+"57","Oasis","Fmiliar to millions","Gas Panic!(Live)",0.243,0.952,"F",-3.924,"minor",0.0633,0.000587,0.083,0.99,0.354,147.99,481600,8
+"58","Oasis","Fmiliar to millions","Roll With It(Live)",0.22,0.983,"A",-4.443,"minor",0.0821,0.00195,5.27e-05,0.951,0.317,131.669,284027,8
+"59","Oasis","Fmiliar to millions","Stand By Me(Live)",0.287,0.909,"G",-4.804,"major",0.0395,0.000293,0.013,0.984,0.233,92.095,351213,10
+"60","Oasis","Fmiliar to millions","Wonderwall(Live)",0.194,0.911,"F#",-5.07,"minor",0.0494,0.0224,0.0145,0.982,0.397,94.263,286907,12
+"61","Oasis","Fmiliar to millions","Cigarettes & Alcohol(Live)",0.164,0.955,"A",-4.132,"major",0.068,0.000544,0.00999,0.986,0.163,130.237,413667,9
+"62","Oasis","Fmiliar to millions","Don't Look Back In Anger(Live)",0.21,0.94,"C",-5.12,"major",0.0779,0.0212,0.0161,0.985,0.22,85.113,327600,15
+"63","Oasis","Fmiliar to millions","Live Forever(Live)",0.231,0.938,"A",-3.979,"minor",0.0702,0.00781,0.114,0.99,0.195,90.476,307693,11
+"64","Oasis","Fmiliar to millions","Hey Hey, My My(Live)",0.386,0.955,"A",-5.33,"minor",0.0654,0.00216,0.744,0.988,0.225,128.485,226173,8
+"65","Oasis","Fmiliar to millions","Champagne Supernova(Live)",0.128,0.892,"D",-4.626,"major",0.0493,0.00463,0.00584,0.987,0.137,83.205,391627,11
+"66","Oasis","Fmiliar to millions","Rock'n'Roll Star(Live)",0.147,0.996,"E",-3.423,"major",0.261,0.00924,0.61,0.979,0.0679,137.881,447440,9
+"67","Oasis","Fmiliar to millions","Helter Skelter(Live)",0.11,0.977,"A",-3.893,"minor",0.087,0.000131,0.286,0.966,0.168,89.641,393507,7
+"68","Oasis","Familiar To Millions","Fuckin'In The Bushes",0.137,0.963,"A",-6.466,"major",0.0859,0.00166,0.0667,0.983,0.136,100.487,184333,13
+"69","Oasis","Familiar To Millions","Go Let It Out",0.268,0.936,"D",-4.358,"major",0.0448,0.00013,0.0486,0.943,0.538,85.164,332267,14
+"70","Oasis","Familiar To Millions","Who Feels Love?",0.333,0.891,"A",-5.388,"minor",0.0366,0.000811,0.00518,0.947,0.163,79.974,359760,12
+"71","Oasis","Familiar To Millions","Supersonic",0.301,0.991,"F#",-4.481,"minor",0.0635,5.65e-05,0.156,0.99,0.181,119.332,270333,16
+"72","Oasis","Familiar To Millions","Shakermaker",0.255,0.956,"E",-4.394,"major",0.0977,0.00333,0.0329,0.984,0.128,104.995,313000,12
+"73","Oasis","Familiar To Millions","Acquiesce",0.266,0.99,"F",-4.162,"major",0.173,0.000477,0.0062,0.971,0.0914,125.086,258440,14
+"74","Oasis","Familiar To Millions","Step Out",0.251,0.979,"E",-3.829,"minor",0.0727,8.04e-05,0.217,0.99,0.286,137.617,245493,12
+"75","Oasis","Familiar To Millions","Gas Panic!",0.258,0.948,"F",-3.899,"minor",0.0633,0.000528,0.183,0.987,0.367,147.772,481533,14
+"76","Oasis","Familiar To Millions","Roll With It",0.231,0.984,"A",-4.45,"minor",0.082,0.00137,5.72e-05,0.953,0.275,131.584,283707,12
+"77","Oasis","Familiar To Millions","Stand by Me",0.283,0.888,"G",-4.795,"major",0.039,0.000327,0.00633,0.99,0.238,92.099,349000,14
+"78","Oasis","Familiar To Millions","Wonderwall",0.146,0.919,"F#",-5.101,"minor",0.0604,0.0194,0.0195,0.981,0.403,93.868,286467,19
+"79","Oasis","Familiar To Millions","Cigarettes & Alcohol",0.164,0.954,"A",-4.095,"major",0.0711,0.000551,0.0215,0.977,0.17,130.45,412027,14
+"80","Oasis","Familiar To Millions","Don't Look Back In Anger",0.263,0.936,"C",-5.088,"major",0.0771,0.0238,0.0135,0.969,0.227,84.816,327600,21
+"81","Oasis","Familiar To Millions","Live Forever",0.203,0.944,"A",-4.051,"minor",0.0762,0.0108,0.0907,0.982,0.211,90.361,309907,16
+"82","Oasis","Familiar To Millions","Hey Hey, My, My (Into The Black)",0.382,0.953,"A",-5.318,"minor",0.0583,0.00155,0.633,0.978,0.205,128.426,225427,16
+"83","Oasis","Familiar To Millions","Champagne Supernova",0.157,0.892,"D",-4.629,"major",0.0513,0.0035,0.00322,0.98,0.139,82.335,392067,14
+"84","Oasis","Familiar To Millions","Rock 'N' Roll Star",0.142,0.996,"E",-3.458,"major",0.285,0.00855,0.489,0.978,0.0667,140.198,446867,12
+"85","Oasis","Familiar To Millions","Helter Skelter",0.104,0.979,"A",-3.942,"minor",0.102,0.000132,0.23,0.979,0.152,87.184,392573,10
+"86","Oasis","Heathen Chemistry","The Hindu Times",0.419,0.95,"B",-3.04,"major",0.0515,9.22e-06,7.27e-06,0.785,0.351,113.935,226453,32
+"87","Oasis","Heathen Chemistry","Force Of Nature",0.478,0.799,"B",-3.682,"minor",0.035,2e-04,1.14e-06,0.339,0.567,103.944,291787,23
+"88","Oasis","Heathen Chemistry","Hung In A Bad Place",0.318,0.964,"E",-2.497,"major",0.0669,0.014,0.000161,0.123,0.241,127.018,208507,22
+"89","Oasis","Heathen Chemistry","Stop Crying Your Heart Out",0.379,0.566,"D",-5.361,"major",0.0296,0.0811,1.56e-06,0.118,0.083,74.983,303133,51
+"90","Oasis","Heathen Chemistry","Songbird",0.49,0.573,"D",-6.218,"major",0.028,0.293,5.06e-06,0.221,0.516,134.882,127613,36
+"91","Oasis","Heathen Chemistry","Little By Little",0.403,0.648,"D",-4.958,"major",0.0274,0.0355,0.00481,0.116,0.145,145.716,292973,38
+"92","Oasis","Heathen Chemistry","A Quick Peep",0.379,0.754,"C",-6.332,"major",0.0327,0.00044,0.952,0.273,0.376,191.573,76920,20
+"93","Oasis","Heathen Chemistry","[Probably] All In The Mind",0.371,0.742,"G",-4.554,"major",0.0423,0.00235,2.51e-05,0.742,0.218,114.974,241893,21
+"94","Oasis","Heathen Chemistry","She Is Love",0.47,0.663,"C",-6.237,"major",0.03,0.452,2.13e-06,0.143,0.444,89.951,189640,31
+"95","Oasis","Heathen Chemistry","Born On A Different Cloud",0.386,0.685,"A",-6.194,"minor",0.0281,0.0013,0.00661,0.0872,0.154,72.994,369013,22
+"96","Oasis","Heathen Chemistry","Better Man/The Cage",0.419,2.01e-05,"F#",-4.706,"major",0.0527,0.000586,0.417,0.351,0.224,113.89,2284827,19
+"97","Oasis","Dont Believe the Truth","Turn Up the Sun",0.39,0.846,"G",-2.993,"major",0.041,0.00359,0.651,0.0901,0.111,119.793,239240,16
+"98","Oasis","Dont Believe the Truth","Mucky Fingers",0.409,0.977,"A",-1.59,"major",0.0501,0.000345,0.052,0.271,0.268,110.726,235960,14
+"99","Oasis","Dont Believe the Truth","Lyla",0.394,0.948,"B",-2.421,"major",0.0479,0.000113,0.000142,0.146,0.31,120.896,310440,26
+"100","Oasis","Dont Believe the Truth","Love Like a Bomb",0.281,0.928,"A",-2.49,"major",0.0476,0.00713,7.19e-05,0.136,0.656,176.839,172880,14
+"101","Oasis","Dont Believe the Truth","The Importance of Being Idle",0.577,0.877,"A",-2.102,"minor",0.0331,0.051,0,0.133,0.577,109.855,219827,27
+"102","Oasis","Dont Believe the Truth","The Meaning of Soul",0.411,0.999,"A",-2.854,"major",0.0545,0.0459,0.00808,0.514,0.349,154.939,102827,13
+"103","Oasis","Dont Believe the Truth","Guess God Thinks I'm Abel",0.604,0.702,"F#",-6.484,"major",0.0279,0.303,8.27e-06,0.397,0.262,103.829,204747,14
+"104","Oasis","Dont Believe the Truth","Part of the Queue",0.404,0.985,"A",-2.854,"minor",0.0563,0.0255,0.00385,0.373,0.645,88.936,228120,14
+"105","Oasis","Dont Believe the Truth","Keep the Dream Alive",0.142,0.875,"E",-2.195,"major",0.0686,0.0488,0.000405,0.395,0.119,191.929,345707,14
+"106","Oasis","Dont Believe the Truth","A Bell Will Ring",0.365,0.747,"F#",-2.005,"major",0.0508,0.155,0.00308,0.249,0.237,114.887,187640,12
+"107","Oasis","Dont Believe the Truth","Let There Be Love",0.48,0.468,"F",-4.672,"major",0.0281,0.304,0,0.34,0.135,74.094,331520,25
+"108","Oasis","Dig Out Your Soul","Bag It Up",0.419,0.894,"G",-2.677,"major",0.0379,0.000381,0.0274,0.596,0.33,90.913,280413,4
+"109","Oasis","Dig Out Your Soul","The Turning",0.444,0.936,"G",-3.239,"major",0.0735,0.00872,0.0117,0.138,0.194,119.812,304840,4
+"110","Oasis","Dig Out Your Soul","Waiting For The Rapture",0.409,0.837,"C",-3.676,"major",0.0494,0.00798,0.0017,0.176,0.316,169.736,182987,3
+"111","Oasis","Dig Out Your Soul","The Shock Of The Lightning",0.336,0.956,"B",-2.38,"minor",0.0889,4.13e-05,0.598,0.374,0.0375,136.909,299947,4
+"112","Oasis","Dig Out Your Soul","I'm Outta Time",0.427,0.622,"E",-5.467,"minor",0.028,0.00107,0.0467,0.431,0.0775,77.407,250013,4
+"113","Oasis","Dig Out Your Soul","(Get Off Your) High Horse Lady",0.463,0.837,"C",-5.207,"major",0.0292,0.0298,0.442,0.605,0.499,78.054,246787,3
+"114","Oasis","Dig Out Your Soul","Falling Down",0.442,0.965,"F#",-3.003,"minor",0.0598,0.00107,0.107,0.146,0.252,130.961,260080,3
+"115","Oasis","Dig Out Your Soul","To Be Where There's Life",0.49,0.849,"G",-3.784,"major",0.0329,0.000366,0.206,0.221,0.635,100.675,275747,3
+"116","Oasis","Dig Out Your Soul","Ain't Got Nothin'",0.376,0.975,"B",-3.504,"major",0.0797,0.00382,0.00316,0.123,0.0847,112.759,134813,2
+"117","Oasis","Dig Out Your Soul","The Nature Of Reality",0.189,0.835,"D",-5.285,"major",0.0543,0.00132,0.00524,0.324,0.0542,104.459,227867,2
+"118","Oasis","Dig Out Your Soul","Soldier On",0.416,0.753,"C#",-4.413,"minor",0.0328,0.00102,0.715,0.12,0.654,75.926,290747,2
+"119","Oasis","Dig Out Your Soul","The Shock Of The Lightning - Primal Scream Remix",0.579,0.716,"A",-6.704,"minor",0.031,2.25e-05,0.743,0.086,0.0703,126.019,266040,2
+"120","Blur","Leisure","She's So High - 2012  Version",0.459,0.859,"G",-6.983,"major",0.0271,0.00078,0.000342,0.226,0.672,94.505,286173,36
+"121","Blur","Leisure","Bang - 2012  Version",0.585,0.91,"E",-6.96,"major",0.0525,0.0458,4.81e-05,0.133,0.542,114.004,217253,29
+"122","Blur","Leisure","Slow Down - 2012  Version",0.167,0.855,"C",-6.368,"major",0.0483,0.000204,2.17e-05,0.122,0.542,87.404,191107,25
+"123","Blur","Leisure","Repetition - 2012  Version",0.518,0.755,"D",-6.905,"major",0.0273,0.000197,3.55e-05,0.0945,0.5,77.062,325693,25
+"124","Blur","Leisure","Bad Day - 2012  Version",0.4,0.924,"G",-6.617,"major",0.041,0.000145,1.15e-05,0.058,0.606,105.177,264467,24
+"125","Blur","Leisure","Sing - 2012  Version",0.375,0.658,"A",-7.601,"minor",0.0331,0.0232,0.802,0.0958,0.506,148.051,360973,28
+"126","Blur","Leisure","There's No Other Way - 2012  Version",0.575,0.937,"D",-5.858,"major",0.0496,0.0563,1.06e-05,0.178,0.634,112.045,204867,34
+"127","Blur","Leisure","Fool - 2012  Version",0.481,0.911,"D",-6.185,"major",0.0527,0.000548,0.00177,0.0841,0.52,110.926,194107,23
+"128","Blur","Leisure","Come Together - 2012  Version",0.386,0.92,"A",-5.737,"major",0.0529,0.000187,1.01e-06,0.255,0.389,137.842,232400,23
+"129","Blur","Leisure","High Cool - 2012  Version",0.61,0.896,"D",-6.74,"major",0.0328,0.0689,8.03e-05,0.296,0.848,106.942,217867,22
+"130","Blur","Leisure","Birthday - 2012  Version",0.18,0.293,"E",-11.908,"major",0.0313,0.14,0.000527,0.0968,0.0912,145.629,229920,22
+"131","Blur","Leisure","Wear Me Down - 2012  Version",0.362,0.906,"F",-6.651,"major",0.038,0.00154,0.000187,0.0857,0.254,95.038,291507,23
+"132","Blur","Modern Life Is Rubbish","For Tomorrow - 2012  Version",0.631,0.84,"D",-6.025,"major",0.0285,0.0143,0,0.0712,0.653,95.849,261240,33
+"133","Blur","Modern Life Is Rubbish","Advert - 2012  Version",0.63,0.922,"D",-5.89,"major",0.0439,0.00235,2.97e-06,0.108,0.863,137.596,225413,27
+"134","Blur","Modern Life Is Rubbish","Colin Zeal - 2012  Version",0.596,0.828,"A",-6.791,"minor",0.0403,0.0135,0,0.0683,0.676,128.427,196240,26
+"135","Blur","Modern Life Is Rubbish","Pressure On Julian - 2012  Version",0.415,0.875,"C#",-6.111,"major",0.0566,0.00501,2.27e-05,0.0636,0.159,129.38,211880,24
+"136","Blur","Modern Life Is Rubbish","Star Shaped - 2012  Version",0.487,0.893,"A",-5.855,"major",0.0597,0.0181,0,0.0809,0.598,128.183,206853,26
+"137","Blur","Modern Life Is Rubbish","Blue Jeans - 2012  Version",0.65,0.707,"C#",-8.203,"minor",0.0275,0.044,0,0.0859,0.78,106.545,234653,32
+"138","Blur","Modern Life Is Rubbish","Chemical World (Including 'Intermission') - 2012  Version",0.312,0.816,"D",-7.527,"major",0.0473,0.0372,8.53e-05,0.159,0.551,140.744,393760,36
+"139","Blur","Modern Life Is Rubbish","Sunday Sunday - 2012  Version",0.342,0.857,"G",-5.985,"major",0.0456,0.00318,0,0.354,0.857,118.645,158360,28
+"140","Blur","Modern Life Is Rubbish","Oily Water - 2012  Version",0.281,0.893,"F#",-6.203,"minor",0.0572,0.00103,0.0516,0.0965,0.407,105.774,301080,24
+"141","Blur","Modern Life Is Rubbish","Miss America - 2012  Version",0.266,0.461,"D",-11.97,"minor",0.0345,0.0506,0.00377,0.241,0.207,78.51,335053,24
+"142","Blur","Modern Life Is Rubbish","Villa Rosie - 2012  Version",0.456,0.748,"C",-6.632,"major",0.0346,0.0662,0,0.0942,0.586,96.438,234907,23
+"143","Blur","Modern Life Is Rubbish","Coping - 2012  Version",0.572,0.963,"C#",-5.707,"minor",0.0607,0.00239,0,0.196,0.924,122.605,204747,23
+"144","Blur","Modern Life Is Rubbish","Turn It Up - 2012  Version",0.508,0.944,"D",-6.765,"major",0.113,7.03e-05,0.000557,0.349,0.284,124.037,202840,22
+"145","Blur","Modern Life Is Rubbish","Resigned (Including 'Commercial Break') - 2012  Version",0.454,0.77,"D",-8.18,"minor",0.0322,0.000132,0.581,0.0445,0.385,107.991,372507,21
+"146","Blur","Parklife","Girls and Boys - 2012  Version",0.688,0.936,"G",-6.658,"minor",0.0377,0.0138,0,0.068,0.924,120.135,291200,39
+"147","Blur","Parklife","Tracy Jacks - 2012  Version",0.636,0.86,"E",-5.767,"major",0.0425,0.0977,0,0.127,0.346,121.508,259627,39
+"148","Blur","Parklife","End of a Century - 2012  Version",0.446,0.686,"G",-7.348,"major",0.0303,0.211,0,0.205,0.493,80.571,165840,48
+"149","Blur","Parklife","Parklife - 2012  Version",0.627,0.891,"E",-6.094,"major",0.0676,0.121,0,0.281,0.722,138.79,185093,43
+"150","Blur","Parklife","Bank Holiday - 2012  Version",0.241,0.944,"G",-5.809,"major",0.182,0.0277,0,0.163,0.254,175.912,102307,34
+"151","Blur","Parklife","Badhead - 2012  Version",0.543,0.616,"G",-8.711,"major",0.0266,0.0535,0.000335,0.555,0.45,111.079,205773,36
+"152","Blur","Parklife","The Debt Collector - 2012  Version",0.363,0.391,"E",-11.884,"major",0.0322,0.076,0.282,0.483,0.567,186.628,130720,31
+"153","Blur","Parklife","Far Out - 2012  Version",0.607,0.167,"F",-13.968,"major",0.0459,0.935,1.35e-05,0.0836,0.14,103.512,97547,28
+"154","Blur","Parklife","To the End - 2012  Version",0.524,0.634,"D",-8.968,"major",0.0249,0.0166,6.78e-05,0.0895,0.634,96.289,244600,34
+"155","Blur","Parklife","London Loves - 2012  Version",0.791,0.698,"B",-6.765,"minor",0.0365,0.0696,0.00206,0.166,0.788,120.468,255453,38
+"156","Blur","Parklife","Trouble in the Message Centre - 2012  Version",0.361,0.959,"C#",-5.821,"major",0.0651,0.00293,2.48e-06,0.633,0.383,139.591,249040,29
+"157","Blur","Parklife","Clover Over Dover - 2012  Version",0.575,0.686,"C#",-9.057,"minor",0.0282,0.0998,0.000144,0.367,0.936,118.101,202253,33
+"158","Blur","Parklife","Magic America - 2012  Version",0.6,0.783,"F#",-6.268,"major",0.0308,0.155,0,0.621,0.871,99.8,217907,28
+"159","Blur","Parklife","Jubilee - 2012  Version",0.512,0.943,"D",-5.741,"major",0.106,0.00158,0,0.134,0.498,130.18,167640,28
+"160","Blur","Parklife","This Is a Low - 2012  Version",0.265,0.5,"A",-8.661,"major",0.0325,0.211,0.00157,0.111,0.32,169.984,316907,31
+"161","Blur","Parklife","Lot 105 - 2012  Version",0.706,0.446,"C",-11.995,"major",0.48,0.0255,0.0338,0.314,0.683,81.128,79000,25
+"162","Blur","The Great Escape","Stereotypes - 2012  Version",0.426,0.715,"F#",-6.17,"minor",0.0561,0.0694,0,0.244,0.752,108.539,191187,31
+"163","Blur","The Great Escape","Country House - 2012  Version",0.331,0.885,"A",-6.606,"major",0.0924,0.205,0,0.123,0.589,175.294,236960,38
+"164","Blur","The Great Escape","Best Days - 2012  Version",0.537,0.397,"C",-9.918,"major",0.0245,0.62,3.09e-05,0.137,0.373,75.37,289107,28
+"165","Blur","The Great Escape","Charmless Man - 2012  Version",0.535,0.876,"A",-6.523,"major",0.0418,0.00759,0,0.035,0.846,116.763,213987,36
+"166","Blur","The Great Escape","Fade Away - 2012  Version",0.472,0.633,"E",-8.533,"minor",0.0435,0.0748,0.000427,0.478,0.479,174.832,258507,27
+"167","Blur","The Great Escape","Top Man - 2012  Version",0.76,0.715,"B",-7.405,"minor",0.0459,0.0187,0,0.0689,0.774,108.371,240507,25
+"168","Blur","The Great Escape","The Universal - 2012  Version",0.335,0.546,"A",-8.33,"major",0.0272,0.181,1.98e-06,0.0928,0.266,163.511,238520,35
+"169","Blur","The Great Escape","Mr Robinson's Quango - 2012  Version",0.247,0.868,"B",-6.545,"minor",0.0517,0.00403,0,0.817,0.486,173.616,240880,26
+"170","Blur","The Great Escape","He Thought of Cars - 2012  Version",0.4,0.519,"B",-9.834,"minor",0.0287,0.163,0.000261,0.187,0.367,80.622,256240,31
+"171","Blur","The Great Escape","It Could Be You - 2012  Version",0.702,0.718,"G",-6.358,"major",0.0391,0.0971,0,0.0284,0.869,125.36,192907,27
+"172","Blur","The Great Escape","Ernold Same - 2012  Version",0.211,0.493,"C",-9.877,"major",0.03,0.203,0.000109,0.108,0.315,171.671,126933,22
+"173","Blur","The Great Escape","Globe Alone - 2012  Version",0.382,0.949,"C#",-5.94,"minor",0.14,0.000466,0.000668,0.237,0.631,153.583,143480,24
+"174","Blur","The Great Escape","Dan Abnormal - 2012  Version",0.473,0.902,"D",-6.012,"major",0.0573,0.00306,0,0.0394,0.719,127.618,203680,23
+"175","Blur","The Great Escape","Entertain Me - 2012  Version",0.577,0.864,"A",-7.566,"minor",0.0318,0.109,0,0.14,0.777,120.495,259067,24
+"176","Blur","The Great Escape","Yuko and Hiro - 2012  Version",0.362,0.318,"G",-12.807,"major",0.051,0.71,0.000794,0.092,0.0726,116.098,324467,23
+"177","Blur","Blur","Beetlebum - 2012  Version",0.542,0.626,"C",-7.105,"major",0.0242,0.0789,0.000508,0.277,0.813,89.734,305213,38
+"178","Blur","Blur","Song 2 - 2012  Version",0.674,0.789,"G#",-6.903,"major",0.0676,0.00178,0.0071,0.0754,0.918,129.804,121160,46
+"179","Blur","Blur","Country Sad Ballad Man - 2012  Version",0.661,0.511,"C",-8.948,"major",0.0312,0.0275,0.517,0.275,0.577,97.959,290280,36
+"180","Blur","Blur","M.O.R. - 2012  Version",0.368,0.976,"D",-6.078,"major",0.0579,0.000775,1.23e-05,0.198,0.687,138.587,207027,33
+"181","Blur","Blur","On Your Own - 2012  Version",0.5,0.836,"B",-6.259,"major",0.0845,0.0288,0,0.0635,0.551,84.187,266173,30
+"182","Blur","Blur","Theme from Retro - 2012  Version",0.289,0.792,"D",-8.237,"minor",0.0521,0.0107,0.576,0.654,0.464,86.192,216933,25
+"183","Blur","Blur","You're So Great - 2012  Version",0.501,0.723,"B",-9.792,"major",0.0356,0.778,0.78,0.342,0.637,133.196,215773,31
+"184","Blur","Blur","Death of a Party - 2012  Version",0.462,0.796,"F#",-7.847,"minor",0.0394,0.126,0.313,0.231,0.796,168.044,273880,28
+"185","Blur","Blur","Chinese Bombs - 2012  Version",0.195,0.912,"C#",-6.526,"major",0.0753,0.0656,8.62e-06,0.0688,0.648,66.43,84800,26
+"186","Blur","Blur","I'm Just a Killer for Your Love - 2012  Version",0.397,0.815,"C",-9.712,"major",0.165,8.34e-06,0.818,0.0729,0.25,76.928,251747,25
+"187","Blur","Blur","Look Inside America - 2012  Version",0.446,0.69,"G",-6.214,"major",0.0305,0.00246,0,0.0766,0.516,80.641,230400,31
+"188","Blur","Blur","Strange News from Another Star - 2012  Version",0.35,0.372,"E",-11.901,"minor",0.0329,0.854,0.00337,0.173,0.0996,135.614,243427,27
+"189","Blur","Blur","Movin' On - 2012  Version",0.279,0.923,"F",-6.222,"minor",0.0528,0.0244,0.125,0.0694,0.397,135.662,222707,24
+"190","Blur","Blur","Essex Dogs (Includes 'Interlude') - 2012  Version",0.356,0.629,"A",-11.591,"major",0.0876,0.0615,0.803,0.0707,0.0608,82.322,490453,23
+"191","Blur","Bustin + Dronin","Movin' On - William Orbit Remix",0.6,0.656,"A#",-12.698,"minor",0.0736,0.00179,0.593,0.326,0.242,134.802,479533,10
+"192","Blur","Bustin + Dronin","Death Of A Party - Well Blurred Remix",0.557,0.717,"E",-9.354,"minor",0.0502,0.00152,0.471,0.0934,0.325,83.812,406133,9
+"193","Blur","Bustin + Dronin","On Your Own - Crouch End Broadway Mix",0.491,0.831,"G",-7.057,"major",0.0464,0.00113,0.0954,0.302,0.158,167.9,212240,16
+"194","Blur","Bustin + Dronin","Beetlebum - Moby's Mix",0.732,0.525,"C",-14.093,"major",0.0397,0.118,0.319,0.127,0.155,88.97,402933,14
+"195","Blur","Bustin + Dronin","Essex Dogs - Thurston Moore's Mix",0.677,0.386,"D",-14.97,"major",0.266,0.045,0.22,0.148,0.169,82.046,541307,8
+"196","Blur","Bustin + Dronin","Death Of A Party - Billy Whiskers Mix",0.54,0.587,"E",-15.55,"minor",0.0597,0.122,0.0794,0.737,0.316,168.401,287093,7
+"197","Blur","Bustin + Dronin","Theme From Retro - John McEntire's Mix",0.246,0.76,"D",-11.866,"minor",0.0468,0.00323,0.867,0.267,0.488,154.235,342973,7
+"198","Blur","Bustin + Dronin","Death Of A Party - 12'' Death",0.452,0.696,"E",-12.68,"minor",0.0816,0.000675,0.547,0.756,0.451,167.662,428427,8
+"199","Blur","Bustin + Dronin","On Your Own - Walter Wall Mix",0.558,0.748,"A",-12.04,"minor",0.0623,0.0265,0.818,0.706,0.115,167.912,900200,7
+"200","Blur","Bustin + Dronin","Popscene - Live At Peel Acres",0.0655,0.937,"D",-5.523,"minor",0.0989,4.78e-06,4.47e-05,0.501,0.151,68.4,185293,20
+"201","Blur","Bustin + Dronin","Song 2 - Live At Peel Acres",0.289,0.978,"C#",-5.121,"major",0.11,7.97e-05,0.000106,0.255,0.303,146.927,110240,13
+"202","Blur","Bustin + Dronin","On Your Own - Live At Peel Acres",0.289,0.84,"B",-4.903,"major",0.0756,0.000152,0,0.404,0.571,168.227,287493,8
+"203","Blur","Bustin + Dronin","Chinese Bombs - Live At Peel Acres",0.179,0.922,"G#",-5.313,"major",0.0788,4.73e-05,0,0.407,0.436,104.1,74533,7
+"204","Blur","Bustin + Dronin","Movin' On - Live At Peel Acres",0.134,0.916,"A#",-5.067,"minor",0.0859,0.000173,0,0.0817,0.326,149.847,200573,7
+"205","Blur","Bustin + Dronin","M.O.R. - Live At Peel Acres",0.109,0.78,"D",-5.288,"major",0.0722,1.64e-05,0,0.128,0.107,155.328,179227,7
+"206","Blur","13","Tender",0.587,0.566,"A",-9.932,"major",0.0276,0.47,0,0.0644,0.529,76.054,461947,60
+"207","Blur","13","Bugman",0.476,0.967,"F#",-6.204,"major",0.1,0.00496,0.00181,0.213,0.16,130.111,291293,35
+"208","Blur","13","Coffee And TV",0.733,0.781,"C#",-8.274,"minor",0.0367,0.0354,0.261,0.0878,0.965,121.614,319227,62
+"209","Blur","13","Swamp Song",0.442,0.915,"C",-7.558,"major",0.0425,0.00794,0.000212,0.383,0.465,99.622,276533,35
+"210","Blur","13","1992",0.126,0.628,"G",-10.604,"major",0.034,0.00153,0.365,0.365,0.126,154.629,329067,30
+"211","Blur","13","B.L.U.R.E.M.I",0.216,0.81,"A",-8.148,"major",0.0745,0.0114,0.273,0.0936,0.15,93.067,172000,28
+"212","Blur","13","Battle",0.241,0.636,"A",-10.592,"major",0.0479,0.0164,0.591,0.101,0.0797,95.965,463773,32
+"213","Blur","13","Mellow Song",0.596,0.33,"D",-16.464,"major",0.0277,0.581,0.404,0.342,0.457,100.066,236800,28
+"214","Blur","13","Trailerpark",0.501,0.739,"A",-11.047,"minor",0.045,0.00672,0.793,0.0905,0.385,83.068,266800,27
+"215","Blur","13","Caramel",0.413,0.313,"A",-15.208,"minor",0.0353,0.82,0.901,0.137,0.0392,99.821,458227,29
+"216","Blur","13","Trimm Trabb",0.593,0.459,"A",-11.594,"minor",0.0285,0.0253,0.516,0.102,0.422,103.21,336947,36
+"217","Blur","13","No Distance Left To Run",0.419,0.208,"G",-14.751,"major",0.0339,0.722,0.0318,0.108,0.108,148.07,208267,37
+"218","Blur","13","Optigan I",0.207,0.323,"C#",-22.641,"major",0.0358,0.856,0.993,0.135,0.454,95.568,154093,25
+"219","Blur","Think Tank [Special Edition]","Ambulance",0.512,0.537,"A#",-6.961,"minor",0.0426,0.00939,0.615,0.0697,0.312,183.897,308880,28
+"220","Blur","Think Tank [Special Edition]","Out of Time",0.529,0.455,"C",-8.603,"major",0.0274,0.0424,0.00364,0.364,0.318,138.678,233373,38
+"221","Blur","Think Tank [Special Edition]","Crazy Beat",0.501,0.978,"A",-4.281,"minor",0.13,0.000187,0.0168,0.566,0.568,136.021,194560,24
+"222","Blur","Think Tank [Special Edition]","Good Song",0.652,0.493,"F",-9.113,"major",0.0289,0.212,0.538,0.188,0.723,168.554,187680,36
+"223","Blur","Think Tank [Special Edition]","On The Way To The Club",0.438,0.615,"G",-7.049,"major",0.0391,5.75e-05,0.695,0.062,0.357,183.851,227987,23
+"224","Blur","Think Tank [Special Edition]","Brothers And Sisters",0.718,0.744,"A#",-5.309,"minor",0.035,0.0353,0.00545,0.296,0.811,92.016,227240,23
+"225","Blur","Think Tank [Special Edition]","Caravan",0.481,0.336,"D",-11.849,"major",0.0405,0.472,0.552,0.45,0.332,172.341,275827,23
+"226","Blur","Think Tank [Special Edition]","We've Got A File On You",0.509,0.92,"B",-3.527,"major",0.0366,0.264,0.293,0.309,0.554,92.035,62333,19
+"227","Blur","Think Tank [Special Edition]","Moroccan Peoples Revolutionary Bowls Club",0.738,0.81,"C#",-6.069,"minor",0.105,0.0412,0.0674,0.554,0.591,98.012,182973,19
+"228","Blur","Think Tank [Special Edition]","Sweet Song",0.662,0.274,"D#",-13.895,"major",0.0264,0.785,0.0436,0.183,0.307,84.442,240880,27
+"229","Blur","Think Tank [Special Edition]","Jets",0.81,0.476,"A",-7.804,"major",0.0365,0.628,0.0559,0.0711,0.705,94.75,385240,25
+"230","Blur","Think Tank [Special Edition]","Gene By Gene",0.712,0.712,"C",-7.819,"major",0.071,0.0496,0.00699,0.562,0.832,144.861,228573,18
+"231","Blur","Think Tank [Special Edition]","Battery in Your Leg (Includes 'Me, White Noise')",0.661,0.455,"C",-7.596,"major",0.0987,0.0787,0.0225,0.135,0.225,122.596,694973,19
+"232","Blur","Think Tank [Special Edition]","Money Makes Me Crazy - Marrakech Mix;2012  Version",0.688,0.789,"C",-5.651,"major",0.0447,0.187,0.000494,0.0429,0.775,125.154,172653,16
+"233","Blur","Think Tank [Special Edition]","Tune 2",0.875,0.578,"F#",-9.168,"major",0.0521,0.0289,0.671,0.0961,0.786,127.554,227707,15
+"234","Blur","Think Tank [Special Edition]","The Outsider - 2012  Version",0.526,0.65,"F",-9.878,"major",0.0389,0.0255,0.00685,0.218,0.408,151.109,314013,15
+"235","Blur","Think Tank [Special Edition]","Don't Be - 2012  Version",0.648,0.439,"E",-9.72,"minor",0.0259,0.00845,0.00024,0.0461,0.668,94.346,160267,16
+"236","Blur","Think Tank [Special Edition]","Morricone",0.751,0.666,"C#",-8.321,"minor",0.0371,0.013,0.524,0.232,0.895,122.023,289947,17
+"237","Blur","Think Tank [Special Edition]","Me, White Noise - Alternate Version",0.81,0.791,"G",-7.286,"major",0.0353,0.0533,0.22,0.137,0.912,122.58,404427,18
+"238","Blur","Think Tank [Special Edition]","Some Glad Morning - 2012  Version",0.764,0.713,"G#",-6.583,"major",0.0744,0.0233,0.00233,0.158,0.556,105.508,258893,14
+"239","Blur","All The People... Blur Live At Hyde Park 02/07/2009","She's So High - Live in Hyde Park, London 02/07/2009",0.062,0.967,"D",-4.381,"minor",0.255,0.00203,0.00245,0.972,0.106,191.448,300920,19
+"240","Blur","All The People... Blur Live At Hyde Park 02/07/2009","Girls And Boys - Live in Hyde Park, London 02/07/2009",0.241,0.953,"F#",-3.648,"major",0.166,0.000584,0.0883,0.945,0.268,127.629,301960,21
+"241","Blur","All The People... Blur Live At Hyde Park 02/07/2009","Tracy Jacks - Live in Hyde Park, London 02/07/2009",0.253,0.966,"E",-4.841,"major",0.225,0.018,1.86e-06,0.976,0.0928,126.268,271800,16
+"242","Blur","All The People... Blur Live At Hyde Park 02/07/2009","There's No Other Way - Live in Hyde Park, London 02/07/2009",0.297,0.985,"A",-5.621,"minor",0.156,0.00494,0.129,0.919,0.197,129.476,253960,18
+"243","Blur","All The People... Blur Live At Hyde Park 02/07/2009","Jubilee - Live in Hyde Park, London 02/07/2009",0.18,0.981,"A",-4.328,"minor",0.312,0.000506,0.00897,0.962,0.197,156.927,181480,15
+"244","Blur","All The People... Blur Live At Hyde Park 02/07/2009","Bad Head - Live in Hyde Park, London 02/07/2009",0.322,0.9,"C",-6.453,"major",0.098,0.0376,0.00977,0.966,0.224,116.804,228547,16
+"245","Blur","All The People... Blur Live At Hyde Park 02/07/2009","Beetlebum - Live in Hyde Park, London 02/07/2009",0.163,0.909,"F",-5.359,"major",0.144,0.0779,0.078,0.856,0.21,176.261,410187,19
+"246","Blur","All The People... Blur Live At Hyde Park 02/07/2009","Out Of Time - Live in Hyde Park, London 02/07/2009",0.327,0.779,"C",-8.801,"major",0.0457,0.386,0.198,0.976,0.163,145.71,238747,16
+"247","Blur","All The People... Blur Live At Hyde Park 02/07/2009","Trimm Trabb - Live in Hyde Park, London 02/07/2009",0.276,0.944,"F",-6.122,"major",0.104,0.0517,0.649,0.924,0.193,112.458,324960,14
+"248","Blur","All The People... Blur Live At Hyde Park 02/07/2009","Coffee And TV - Live in Hyde Park, London 02/07/2009",0.297,0.977,"C#",-4.943,"minor",0.104,0.00011,0.0614,0.613,0.347,129.388,330320,18
+"249","Blur","All The People... Blur Live At Hyde Park 02/07/2009","Tender - Live in Hyde Park, London 02/07/2009",0.204,0.801,"A",-5.155,"major",0.0527,0.0369,0.00171,0.879,0.253,81.599,549760,19
+"250","Blur","All The People... Blur Live At Hyde Park 02/07/2009","Country House - Live in Hyde Park, London 02/07/2009",0.135,0.983,"A",-4.574,"major",0.3,0.00624,0.00267,0.966,0.123,175.048,308027,19
+"251","Blur","All The People... Blur Live At Hyde Park 02/07/2009","Oily Water - Live in Hyde Park, London 02/07/2009",0.0791,0.991,"E",-3.634,"major",0.183,0.000206,0.889,0.357,0.0708,205.913,260027,13
+"252","Blur","All The People... Blur Live At Hyde Park 02/07/2009","Chemical World - Live in Hyde Park, London 02/07/2009",0.114,0.952,"A",-5.383,"major",0.282,0.0317,0.0539,0.484,0.0914,176.399,307960,13
+"253","Blur","All The People... Blur Live At Hyde Park 02/07/2009","Sunday Sunday - Live in Hyde Park, London 02/07/2009",0.213,0.965,"C",-5.054,"major",0.187,0.00922,0.00028,0.937,0.0864,126.49,232360,13
+"254","Blur","All The People... Blur Live At Hyde Park 02/07/2009","Parklife - Live in Hyde Park, London 02/07/2009",0.121,0.986,"E",-3.517,"major",0.322,0.00858,0,0.966,0.135,166.187,192307,18
+"255","Blur","All The People... Blur Live At Hyde Park 02/07/2009","End Of A Century - Live in Hyde Park, London 02/07/2009",0.122,0.899,"G",-6.293,"major",0.165,0.287,3.12e-06,0.976,0.297,80.554,210680,15
+"256","Blur","All The People... Blur Live At Hyde Park 02/07/2009","To The End - Live in Hyde Park, London 02/07/2009",0.371,0.808,"D",-5.544,"major",0.0369,0.0131,0.00233,0.797,0.461,95.897,264040,15
+"257","Blur","All The People... Blur Live At Hyde Park 02/07/2009","This Is A Low - Live in Hyde Park, London 02/07/2009",0.0743,0.944,"A",-6.814,"major",0.369,0.476,0.0822,0.716,0.137,183.259,517467,14
+"258","Blur","All The People... Blur Live At Hyde Park 02/07/2009","Popscene - Live in Hyde Park, London 02/07/2009",0.325,0.989,"F",-4.127,"major",0.096,0.000409,0.00664,0.915,0.0374,102.432,177480,12
+"259","Blur","All The People... Blur Live At Hyde Park 03/07/2009","She's So High - Live In Hyde Park, London 3/7/09",0.0632,0.991,"G",-4.703,"major",0.274,0.00223,0.000845,0.938,0.0379,190.915,319707,3
+"260","Blur","All The People... Blur Live At Hyde Park 03/07/2009","Girls And Boys - Live In Hyde Park, London 3/7/09",0.268,0.966,"D#",-4.268,"minor",0.175,0.000493,0.0719,0.982,0.23,129.466,279987,4
+"261","Blur","All The People... Blur Live At Hyde Park 03/07/2009","Tracy Jacks - Live In Hyde Park, London 3/7/09",0.219,0.989,"E",-4.572,"major",0.289,0.0121,1.21e-06,0.942,0.0645,128.126,272013,2
+"262","Blur","All The People... Blur Live At Hyde Park 03/07/2009","There's No Other Way - Live In Hyde Park, London 3/7/09",0.262,0.993,"D",-5.129,"major",0.305,0.00127,0.0432,0.972,0.123,130.565,235293,3
+"263","Blur","All The People... Blur Live At Hyde Park 03/07/2009","Jubilee - Live In Hyde Park, London 3/7/09",0.159,0.99,"D",-4.226,"minor",0.149,0.00254,0.000236,0.964,0.0473,156.001,191800,2
+"264","Blur","All The People... Blur Live At Hyde Park 03/07/2009","Bad Head - Live In Hyde Park, London 3/7/09",0.282,0.896,"G",-6.582,"major",0.13,0.062,0.00434,0.97,0.249,119.025,239547,2
+"265","Blur","All The People... Blur Live At Hyde Park 03/07/2009","Beetlebum - Live In Hyde Park, London 3/7/09",0.162,0.942,"C",-5.412,"major",0.251,0.0841,0.0904,0.886,0.145,185.277,420800,3
+"266","Blur","All The People... Blur Live At Hyde Park 03/07/2009","Out Of Time - Live In Hyde Park, London 3/7/09",0.237,0.817,"C",-7.569,"major",0.0576,0.341,0.565,0.969,0.21,146.54,233587,2
+"267","Blur","All The People... Blur Live At Hyde Park 03/07/2009","Trimm Trabb - Live In Hyde Park, London 3/7/09",0.27,0.976,"F",-5.713,"major",0.147,0.0141,0.719,0.935,0.15,113.036,314987,2
+"268","Blur","All The People... Blur Live At Hyde Park 03/07/2009","Coffee & TV - Live In Hyde Park, London 3/7/09",0.301,0.967,"C#",-4.91,"minor",0.13,0.000104,0.0763,0.946,0.389,129.331,327853,2
+"269","Blur","All The People... Blur Live At Hyde Park 03/07/2009","Tender - Live In Hyde Park, London 3/7/09",0.138,0.783,"A",-5.756,"major",0.0551,0.0284,0.00104,0.717,0.383,79.225,565093,4
+"270","Blur","All The People... Blur Live At Hyde Park 03/07/2009","Country House - Live In Hyde Park, London 3/7/09",0.126,0.984,"A",-6.88,"major",0.277,0.0023,0.000157,0.989,0.112,175.395,318427,3
+"271","Blur","All The People... Blur Live At Hyde Park 03/07/2009","Oily Water - Live In Hyde Park, London 3/7/09",0.0969,0.995,"E",-5.315,"major",0.196,0.000167,0.858,0.487,0.0583,208.829,275493,2
+"272","Blur","All The People... Blur Live At Hyde Park 03/07/2009","Chemical World - Live In Hyde Park, London 3/7/09",0.11,0.968,"A",-6.562,"major",0.255,0.00345,0.00736,0.954,0.145,170.269,282467,2
+"273","Blur","All The People... Blur Live At Hyde Park 03/07/2009","Sunday Sunday - Live In Hyde Park, London 3/7/09",0.158,0.982,"E",-5.723,"minor",0.117,0.000196,0.000883,0.859,0.136,133.573,181360,2
+"274","Blur","All The People... Blur Live At Hyde Park 03/07/2009","Parklife - Live In Hyde Park, London 3/7/09",0.123,0.993,"E",-5.525,"major",0.485,0.0239,0,0.956,0.0496,164.452,217467,3
+"275","Blur","All The People... Blur Live At Hyde Park 03/07/2009","End Of A Century - Live In Hyde Park, London 3/7/09",0.154,0.846,"C",-7.268,"major",0.0792,0.0477,3.96e-06,0.971,0.408,162.005,185747,2
+"276","Blur","All The People... Blur Live At Hyde Park 03/07/2009","To The End - Live In Hyde Park, London 3/7/09",0.412,0.782,"A",-7.504,"major",0.0396,0.00913,0.00103,0.968,0.522,95.815,264667,2
+"277","Blur","All The People... Blur Live At Hyde Park 03/07/2009","This Is A Low - Live In Hyde Park, London 3/7/09",0.0826,0.925,"B",-8.197,"minor",0.325,0.299,0.0152,0.813,0.041,186.496,526200,2
+"278","Blur","All The People... Blur Live At Hyde Park 03/07/2009","Popscene - Live In Hyde Park, London 3/7/09",0.288,0.995,"F",-6.017,"major",0.104,1.37e-05,0.00151,0.448,0.0384,101.898,175587,2
+"279","Blur","Parklive","Girls and Boys - Live",0.383,0.977,"F",-5.284,"minor",0.198,0.0015,0.585,0.959,0.122,126.051,307413,29
+"280","Blur","Parklive","London Loves - Live",0.56,0.979,"B",-5.267,"minor",0.1,0.00276,0.00374,0.963,0.289,121.394,212813,24
+"281","Blur","Parklive","Tracy Jacks - Live",0.363,0.95,"C#",-4.769,"minor",0.154,0.0104,4.05e-06,0.951,0.188,121.526,266240,24
+"282","Blur","Parklive","Jubilee - Live",0.359,0.991,"D",-4.979,"major",0.167,0.00267,0.0918,0.958,0.133,146.717,180400,22
+"283","Blur","Parklive","Beetlebum - Live",0.2,0.844,"C",-6.429,"major",0.0594,0.0252,0.322,0.843,0.253,168.309,360693,26
+"284","Blur","Parklive","Coffee and TV - Live",0.374,0.962,"C#",-7.976,"minor",0.0676,0.00636,0.00863,0.995,0.348,129.743,298147,26
+"285","Blur","Parklive","Out of Time - Live",0.393,0.715,"C",-10.588,"major",0.0495,0.397,0.042,0.976,0.223,138.825,282733,23
+"286","Blur","Parklive","Young and Lovely - Live",0.304,0.718,"B",-7.871,"minor",0.0447,0.365,0.00142,0.967,0.313,172.666,312560,22
+"287","Blur","Parklive","Trimm Trabb - Live",0.332,0.76,"F",-7.534,"major",0.0579,0.00902,0.362,0.168,0.158,106.827,328827,21
+"288","Blur","Parklive","Caramel - Live",0.235,0.38,"A",-10.913,"minor",0.0356,0.46,0.413,0.745,0.105,76.27,304587,20
+"289","Blur","Parklive","Sunday Sunday - Live",0.234,0.95,"B",-5.541,"minor",0.143,0.00339,0.0663,0.967,0.285,126.836,214373,20
+"290","Blur","Parklive","Country House - Live",0.173,0.959,"A",-5.074,"major",0.0883,0.0153,0.0406,0.995,0.26,176.007,268173,25
+"291","Blur","Parklive","Parklife (feat. Phil Daniels) [Live]",0.265,0.985,"A",-4.785,"major",0.401,0.0458,0,0.966,0.152,78.366,224907,25
+"292","Blur","Parklive","Colin Zeal - Live",0.259,0.9,"A",-6.4,"minor",0.0888,0.00373,0.023,0.756,0.377,139.845,198547,19
+"293","Blur","Parklive","Popscene - Live",0.183,0.959,"A",-5.749,"major",0.139,0.000333,0.858,0.612,0.122,95.851,230720,20
+"294","Blur","Parklive","Advert - Live",0.199,0.956,"B",-6.089,"minor",0.301,0.00142,0.0232,0.951,0.222,167.544,268053,19
+"295","Blur","Parklive","Song 2 - Live",0.335,0.97,"C#",-6.607,"major",0.297,0.00232,0.709,0.122,0.0802,143.516,170373,37
+"296","Blur","Parklive","No Distance Left to Run - Live",0.342,0.224,"E",-14.154,"major",0.0296,0.878,0.0207,0.706,0.0989,146.751,237627,21
+"297","Blur","Parklive","Tender - Live",0.36,0.664,"A",-7.364,"major",0.0409,0.33,0,0.7,0.238,80.525,549267,25
+"298","Blur","Parklive","This Is a Low - Live",0.238,0.853,"A",-8.967,"major",0.18,0.288,0.172,0.798,0.216,87.147,478240,20
+"299","Blur","The Magic Whip","Lonesome Street",0.661,0.932,"E",-5.092,"major",0.0659,0.186,0.000378,0.0789,0.379,101.012,262720,13
+"300","Blur","The Magic Whip","New World Towers",0.679,0.517,"A",-8.083,"minor",0.0311,0.796,0.000101,0.0843,0.402,124.926,243627,7
+"301","Blur","The Magic Whip","Go Out",0.625,0.936,"A",-3.357,"minor",0.0439,0.00578,0,0.146,0.644,119.985,280052,10
+"302","Blur","The Magic Whip","Ice Cream Man",0.721,0.635,"A",-7.111,"minor",0.0312,0.425,0.32,0.127,0.683,78.997,205200,10
+"303","Blur","The Magic Whip","Thought I Was A Spaceman",0.655,0.649,"C",-8.377,"major",0.03,0.261,0.659,0.0929,0.331,110.03,376213,9
+"304","Blur","The Magic Whip","I Broadcast",0.64,0.981,"G",-3.757,"major",0.0764,0.0467,0.000959,0.263,0.689,140.012,171747,5
+"305","Blur","The Magic Whip","My Terracotta Heart",0.806,0.633,"A",-6.089,"minor",0.0314,0.434,0.000474,0.129,0.64,124.999,245027,5
+"306","Blur","The Magic Whip","There Are Too Many Of Us",0.716,0.631,"E",-5.274,"minor",0.0259,0.067,0.427,0.115,0.754,110.027,265494,6
+"307","Blur","The Magic Whip","Ghost Ship",0.803,0.722,"D",-6.421,"major",0.0377,0.0324,0.00264,0.0763,0.857,139.981,299133,22
+"308","Blur","The Magic Whip","Pyongyang",0.56,0.649,"C#",-5.515,"major",0.0254,0.0619,0.201,0.321,0.227,97.51,347160,5
+"309","Blur","The Magic Whip","Ong Ong",0.661,0.809,"C",-4.584,"major",0.0248,0.134,2.7e-05,0.107,0.949,96.01,188800,10
+"310","Blur","The Magic Whip","Mirrorball",0.541,0.674,"E",-4.917,"minor",0.0285,0.000176,0.00277,0.125,0.409,127.027,228147,4
+"311","Blur","The Magic Whip","Y'All Doomed",0.52,0.572,"A",-8.008,"minor",0.0347,0.000152,0.752,0.0421,0.345,178.07,237667,3
+"312","Arctic Monkeys","Whatever People Say I Am, Thats What Im Not","The View From The Afternoon",0.387,0.922,"A",-5.192,"minor",0.0674,0.00487,0,0.187,0.417,146.478,222947,48
+"313","Arctic Monkeys","Whatever People Say I Am, Thats What Im Not","I Bet You Look Good On The Dancefloor",0.535,0.948,"F#",-4.19,"minor",0.0356,0.00225,0,0.376,0.778,103.183,173680,59
+"314","Arctic Monkeys","Whatever People Say I Am, Thats What Im Not","Fake Tales Of San Francisco",0.454,0.778,"A",-4.225,"major",0.0449,0.00998,0,0.0427,0.704,127.158,177947,47
+"315","Arctic Monkeys","Whatever People Say I Am, Thats What Im Not","Dancing Shoes",0.522,0.889,"C#",-4.137,"major",0.0461,0.00328,0,0.345,0.852,144.499,141133,48
+"316","Arctic Monkeys","Whatever People Say I Am, Thats What Im Not","You Probably Couldn't See For The Lights But You Were Staring Straight At Me",0.58,0.972,"B",-4.274,"minor",0.0589,0.00384,0,0.296,0.926,105.492,130813,44
+"317","Arctic Monkeys","Whatever People Say I Am, Thats What Im Not","Still Take You Home",0.599,0.946,"G#",-4.192,"major",0.0378,0.000669,0,0.0973,0.653,108.934,173667,44
+"318","Arctic Monkeys","Whatever People Say I Am, Thats What Im Not","Riot Van",0.593,0.333,"A",-14.342,"major",0.046,0.358,0,0.245,0.258,103.537,134933,48
+"319","Arctic Monkeys","Whatever People Say I Am, Thats What Im Not","Red Light Indicates Doors Are Secured",0.622,0.846,"B",-4.831,"minor",0.0311,0.00316,0,0.0989,0.914,110.683,143627,44
+"320","Arctic Monkeys","Whatever People Say I Am, Thats What Im Not","Mardy Bum",0.634,0.599,"D",-5.447,"major",0.0365,0.0288,0,0.197,0.312,112.215,175440,57
+"321","Arctic Monkeys","Whatever People Say I Am, Thats What Im Not","Perhaps Vampires Is A Bit Strong But…",0.371,0.914,"B",-4.917,"minor",0.081,0.000293,8.75e-05,0.0852,0.394,134.982,268627,46
+"322","Arctic Monkeys","Whatever People Say I Am, Thats What Im Not","When The Sun Goes Down",0.348,0.875,"B",-4.758,"minor",0.199,0.0341,0,0.117,0.407,169.152,202133,57
+"323","Arctic Monkeys","Whatever People Say I Am, Thats What Im Not","From The Ritz To The Rubble",0.216,0.882,"B",-5.176,"minor",0.0439,0.00147,0,0.308,0.656,189.286,193427,51
+"324","Arctic Monkeys","Whatever People Say I Am, Thats What Im Not","A Certain Romance",0.455,0.881,"B",-5.587,"major",0.0401,0.000566,6.06e-05,0.11,0.201,137.949,331200,51
+"325","Arctic Monkeys","Favourite Worst Nightmare","Brianstorm",0.42,0.974,"C#",-4.706,"major",0.191,8.15e-05,0.00155,0.0871,0.463,165.182,172867,64
+"326","Arctic Monkeys","Favourite Worst Nightmare","Teddy Picker",0.637,0.963,"A",-5.116,"major",0.0882,0.000286,0.000889,0.0449,0.823,150.1,165000,63
+"327","Arctic Monkeys","Favourite Worst Nightmare","D is for Dangerous",0.555,0.925,"C#",-4.689,"major",0.0362,1.09e-05,0.000161,0.0659,0.77,145.061,138107,56
+"328","Arctic Monkeys","Favourite Worst Nightmare","Balaclava",0.414,0.811,"B",-4.4,"minor",0.0919,0.00133,0.000129,0.333,0.762,137.617,171227,57
+"329","Arctic Monkeys","Favourite Worst Nightmare","Fluorescent Adolescent",0.654,0.828,"C#",-5.377,"minor",0.0281,0.00146,0.000144,0.122,0.79,112.056,183893,74
+"330","Arctic Monkeys","Favourite Worst Nightmare","Only Ones Who Know",0.29,0.399,"G",-10.696,"minor",0.0338,0.902,0.0019,0.105,0.0965,128.37,184760,57
+"331","Arctic Monkeys","Favourite Worst Nightmare","Do Me a Favour",0.469,0.738,"B",-6.638,"minor",0.0619,0.00013,0.0577,0.078,0.624,180.15,209253,61
+"332","Arctic Monkeys","Favourite Worst Nightmare","This House is a Circus",0.476,0.844,"G",-5.253,"major",0.0431,1.81e-05,0.00196,0.272,0.658,155.322,191680,54
+"333","Arctic Monkeys","Favourite Worst Nightmare","If You Were There, Beware",0.328,0.805,"E",-6.74,"minor",0.0383,0.000938,0.048,0.104,0.264,135.546,276200,55
+"334","Arctic Monkeys","Favourite Worst Nightmare","The Bad Thing",0.55,0.952,"D",-3.638,"major",0.075,0.00103,0,0.257,0.538,111.066,145213,53
+"335","Arctic Monkeys","Favourite Worst Nightmare","Old Yellow Bricks",0.66,0.837,"C",-4.315,"major",0.0682,0.000147,6.62e-06,0.0788,0.757,135.158,193227,63
+"336","Arctic Monkeys","Favourite Worst Nightmare","505",0.526,0.866,"C",-5.822,"major",0.0568,0.00287,7.78e-05,0.0945,0.248,140.266,253587,67
+"337","Arctic Monkeys","Humbug","My Propeller",0.415,0.657,"A",-6.758,"minor",0.0295,0.052,0.0552,0.233,0.69,115.752,205747,47
+"338","Arctic Monkeys","Humbug","Crying Lightning",0.498,0.885,"E",-4.423,"minor",0.0461,0.0148,0.00041,0.239,0.67,106.719,224827,52
+"339","Arctic Monkeys","Humbug","Dangerous Animals",0.34,0.922,"D#",-5.189,"major",0.18,0.0129,2.39e-06,0.226,0.532,125.363,210667,45
+"340","Arctic Monkeys","Humbug","Secret Door",0.323,0.806,"G",-6.554,"minor",0.0769,0.0314,1.11e-05,0.181,0.548,124.615,223067,46
+"341","Arctic Monkeys","Humbug","Potion Approaching",0.421,0.758,"E",-8.945,"minor",0.0429,0.0062,0.0673,0.0905,0.767,103.659,212133,40
+"342","Arctic Monkeys","Humbug","Fire And The Thud",0.566,0.61,"D",-11.228,"major",0.0388,0.165,0.006,0.215,0.406,114.904,237533,40
+"343","Arctic Monkeys","Humbug","Cornerstone",0.287,0.721,"A",-5.81,"major",0.0387,0.00764,0,0.328,0.763,169.252,197973,51
+"344","Arctic Monkeys","Humbug","Dance Little Liar",0.538,0.607,"C#",-9.133,"minor",0.0352,0.0586,0.769,0.0975,0.543,100.158,283493,43
+"345","Arctic Monkeys","Humbug","Pretty Visitors",0.244,0.896,"F#",-5.576,"minor",0.464,0.0614,2.83e-05,0.127,0.142,83.354,220507,43
+"346","Arctic Monkeys","Humbug","The Jeweller's Hands",0.51,0.8,"C",-8.116,"minor",0.0488,0.137,0.0834,0.118,0.391,96.935,344053,40
+"347","Arctic Monkeys","Suck It and See","She's Thunderstorms",0.505,0.898,"G",-4.906,"major",0.0329,0.000518,0.00236,0.173,0.731,118.929,234920,47
+"348","Arctic Monkeys","Suck It and See","Black Treacle",0.343,0.89,"G",-5.759,"major",0.0655,0.000821,0,0.0912,0.525,100.061,217440,47
+"349","Arctic Monkeys","Suck It and See","Brick By Brick",0.285,0.807,"D",-4.741,"major",0.0528,0.00123,0.00368,0.317,0.542,132.206,179907,41
+"350","Arctic Monkeys","Suck It and See","The Hellcat Spangled Shalalala",0.449,0.872,"B",-4.992,"major",0.0507,0.000793,0.00062,0.0642,0.788,130.22,180373,43
+"351","Arctic Monkeys","Suck It and See","Don't Sit Down 'Cause I've Moved Your Chair",0.434,0.912,"A",-5.148,"major",0.0451,0.0191,0.278,0.326,0.315,119.729,183507,47
+"352","Arctic Monkeys","Suck It and See","Library Pictures",0.304,0.939,"C#",-5.836,"major",0.0549,0.000142,0.00601,0.136,0.402,96.954,142173,41
+"353","Arctic Monkeys","Suck It and See","All My Own Stunts",0.511,0.943,"D",-4.934,"major",0.0537,0.00135,0.0181,0.187,0.531,127.283,232280,40
+"354","Arctic Monkeys","Suck It and See","Reckless Serenade",0.585,0.694,"D",-6.632,"major",0.0392,0.00037,0.0144,0.0724,0.785,127.966,162747,44
+"355","Arctic Monkeys","Suck It and See","Piledriver Waltz",0.443,0.865,"E",-4.547,"major",0.0391,0.00724,0.000116,0.468,0.474,110.008,203880,49
+"356","Arctic Monkeys","Suck It and See","Love is a Laserquest",0.349,0.662,"B",-6.873,"major",0.0402,0.00197,0.908,0.136,0.554,169.926,191427,48
+"357","Arctic Monkeys","Suck It and See","Suck It and See",0.339,0.932,"E",-5.017,"major",0.057,0.00105,0.114,0.255,0.586,128.291,225987,49
+"358","Arctic Monkeys","Suck It and See","That's Where You're Wrong",0.481,0.883,"E",-5.554,"major",0.0638,0.000679,0.558,0.145,0.46,135.937,256800,42
+"359","Arctic Monkeys","AM","Do I Wanna Know?",0.548,0.532,"F",-7.596,"major",0.0323,0.186,0.000263,0.217,0.405,85.03,272394,81
+"360","Arctic Monkeys","AM","R U Mine?",0.288,0.758,"F#",-5.692,"minor",0.0371,0.00616,0,0.303,0.619,97.094,201726,76
+"361","Arctic Monkeys","AM","One For The Road",0.415,0.668,"C",-6.849,"major",0.036,0.212,0.0615,0.27,0.842,180.048,206052,65
+"362","Arctic Monkeys","AM","Arabella",0.579,0.558,"D",-6.986,"major",0.0895,0.0202,1.26e-06,0.212,0.506,179.949,207357,72
+"363","Arctic Monkeys","AM","I Want It All",0.499,0.81,"F",-5.579,"major",0.0347,0.000637,0.0748,0.0625,0.288,131.052,185406,62
+"364","Arctic Monkeys","AM","No. 1 Party Anthem",0.505,0.698,"C",-5.563,"major",0.0297,0.33,0.0887,0.0966,0.599,115.013,243132,65
+"365","Arctic Monkeys","AM","Mad Sounds",0.532,0.462,"A#",-10.71,"major",0.03,0.279,0.196,0.101,0.485,80.001,215012,62
+"366","Arctic Monkeys","AM","Fireside",0.538,0.953,"A",-5.611,"minor",0.056,0.0234,0.00126,0.113,0.74,100.033,181049,62
+"367","Arctic Monkeys","AM","Why'd You Only Call Me When You're High?",0.691,0.631,"D",-6.478,"major",0.0368,0.0483,1.13e-05,0.104,0.8,92.004,161124,75
+"368","Arctic Monkeys","AM","Snap Out Of It",0.728,0.638,"F",-6.455,"minor",0.0336,0.249,0,0.116,0.872,130.014,193030,71
+"369","Arctic Monkeys","AM","Knee Socks",0.665,0.542,"B",-8.323,"minor",0.033,0.123,0.00291,0.342,0.587,97.975,257563,67
+"370","Arctic Monkeys","AM","I Wanna Be Yours",0.464,0.417,"C",-9.345,"minor",0.0256,0.136,0.022,0.0974,0.479,67.528,183956,71
+"371","Arctic Monkeys","Tranquility Base Hotel & Casino","Star Treatment",0.581,0.767,"G",-5.026,"minor",0.0527,0.243,0.00131,0.141,0.673,120.07,354640,61
+"372","Arctic Monkeys","Tranquility Base Hotel & Casino","One Point Perspective",0.714,0.585,"G#",-4.57,"major",0.0419,0.057,0.00444,0.144,0.842,77.104,208640,60
+"373","Arctic Monkeys","Tranquility Base Hotel & Casino","American Sports",0.372,0.865,"G",-4.288,"minor",0.0513,0.00169,0.00293,0.127,0.594,176.689,158040,55
+"374","Arctic Monkeys","Tranquility Base Hotel & Casino","Tranquility Base Hotel & Casino",0.584,0.835,"A",-4.326,"minor",0.0297,0.0411,0.0147,0.199,0.781,142.2,212093,61
+"375","Arctic Monkeys","Tranquility Base Hotel & Casino","Golden Trunks",0.492,0.564,"D",-5.811,"major",0.0278,0.129,1.73e-05,0.131,0.0896,92.544,173627,55
+"376","Arctic Monkeys","Tranquility Base Hotel & Casino","Four Out Of Five",0.601,0.863,"C",-4.31,"major",0.0685,0.0626,0,0.0717,0.676,130.189,312347,64
+"377","Arctic Monkeys","Tranquility Base Hotel & Casino","The World's First Ever Monster Truck Front Flip",0.602,0.601,"A#",-5.742,"major",0.0303,0.346,0.349,0.0735,0.553,145.075,180013,53
+"378","Arctic Monkeys","Tranquility Base Hotel & Casino","Science Fiction",0.542,0.766,"G",-5.411,"major",0.0282,0.0295,0.0802,0.396,0.643,88.062,185907,53
+"379","Arctic Monkeys","Tranquility Base Hotel & Casino","She Looks Like Fun",0.514,0.773,"C",-3.754,"major",0.0388,0.00944,0.00326,0.387,0.445,103.943,182560,53
+"380","Arctic Monkeys","Tranquility Base Hotel & Casino","Batphone",0.675,0.681,"F",-5.728,"minor",0.0356,0.312,0,0.304,0.675,106.521,271613,54
+"381","Arctic Monkeys","Tranquility Base Hotel & Casino","The Ultracheese",0.476,0.555,"A",-6.551,"major",0.0404,0.624,3.98e-05,0.126,0.426,131.497,217720,58
