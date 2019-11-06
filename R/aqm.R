@@ -366,3 +366,41 @@ dmbeta<-function(x=seq(0,1,length=1000),mean=0.5,sd=0.2){
 # dune_taxon<-dune.taxon[,c(6,1:5)]
 # save(dune_taxon,file="data/dune_taxon.rda")
 # write.csv(dune_taxon,"inst/extdata/dune_taxon.csv",row.names=FALSE)
+
+
+#' Provide bootstrapped confidence intervals for the median
+#' 
+#' Useful in a range of situations as a replacement for non-parametric tests
+#' 
+#'
+#' @param x 
+#' @param conf 
+#'
+#' @return
+#' @export
+#'
+#' @examples
+#' 
+#' d <- data.frame(group = rep(c("A", "B", "C", "D"), each = 100), mean = rep(c(10, 12, 15, 20), each = 100))
+#' d$value <- d$mean + rnorm(400, 0, 5)
+#' g0 <- ggplot(d, aes(x = group, y = value))
+#' g_box <- g0 + geom_boxplot(fill = "grey", colour = "black", notch = TRUE) + theme_bw()
+#' g_box <- g_box + stat_summary(fun.data = median_cl_boot, geom = "errorbar", colour = "red") + stat_summary(fun.y = median, geom = "point", colour = "red")
+#' g_box
+#' 
+#' 
+#' 
+median_cl_boot <- function(x, conf = 0.95) {
+  lconf <- (1 - conf)/2
+  uconf <- 1 - lconf
+  require(boot)
+  bmedian <- function(x, ind) median(x[ind])
+  bt <- boot(x, bmedian, 1000)
+  bb <- boot.ci(bt, type = "perc")
+  data.frame(y = median(x), ymin = quantile(bt$t, lconf), ymax = quantile(bt$t, 
+                                                                          uconf))
+}
+
+
+
+
