@@ -458,7 +458,40 @@ multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
 
 
 
+#' Linear model equation
+#'
+#' Prints the regression equation for a linear model
+#' @param mod A linear regression with
+#' @param dps Decimal places
+#'
+#' @return y = ax +bx 
+#' @export
+#'
+#' @examples
+lm_eq<-function(mod=reg_mod, dps=1){
+  s<-summary(mod)
+  a<-round(s$coefficients[1,1],dps)
+  b<-round(s$coefficients[2,1],dps)
+  sprintf("y = %s + %sx", a,b)
+}
 
+
+
+#' Prints the R Squared value as % from a fitted regression model
+#'
+#' @param mod Model
+#' @param dps Number of decimal places
+#'
+#' @return
+#' @export
+#'
+#' @examples
+Rsq<-function(mod=reg_mod, dps=1){
+  s<-summary(mod)
+  
+  round(100* s$r.squared,dps)
+  
+}
 
 
 
