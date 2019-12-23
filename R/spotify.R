@@ -10,7 +10,7 @@
 #' @examples ## d<-spotify_chart()
 #' 
 #' 
-spotify_chart<-function(start= "2019/01/0", 
+spotify_chart<-function(start= "2019/01/04", 
                         end = "2019/12/19", 
                         url ="https://spotifycharts.com/regional/gb/weekly/"){
   # Code from https://rpubs.com/argdata/web_scraping
