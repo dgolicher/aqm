@@ -1,3 +1,16 @@
+libs<-function(){
+  library(aqm)
+  library(giscourse)
+  library(raster)
+  library(ggplot2)
+  library(sf)
+  library(tmap)
+  library(mapview)
+  library(dplyr)
+  library(mgcv)
+}
+
+
 #' Adds files to the users current home directory from the aqm extdata directory
 #'
 #' Useful for demonstrating reading and saving data
@@ -67,7 +80,7 @@ dynamite<-function(g0, ...){g0 +stat_summary(fun.y=mean,geom="bar", ...) +stat_s
 #' @export
 #'
 #' @examples
-ci<-function(g0, ...){g0 +stat_summary(fun.y=mean,geom="point",...) +stat_summary(fun.data=mean_cl_normal,geom="errorbar", ...)}
+ci<-function(g0, ...){g0 +stat_summary(fun.y=base::mean,geom="point",...) +stat_summary(fun.data=mean_cl_normal,geom="errorbar", ...)}
 
 #' Download historical monthly records from met office
 #'
