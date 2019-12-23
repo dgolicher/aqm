@@ -10,9 +10,9 @@
 #' @examples ## d<-spotify_chart()
 #' 
 #' 
-spotify_chart<-function(start= "2019/01/03", 
+spotify_chart<-function(start= "2019/01/0", 
                         end = "2019/12/19", 
-                        url ="https://spotifycharts.com/regional/gb/weekly/latest/"){
+                        url ="https://spotifycharts.com/regional/gb/weekly/"){
   # Code from https://rpubs.com/argdata/web_scraping
   require(rvest)#Easily Harvest (Scrape) Web Pages. html_nodes
   require(tidyverse)#Designed to make it easy to install and load multiple 'tidyverse' packages in a single step.
@@ -22,7 +22,14 @@ spotify_chart<-function(start= "2019/01/03",
   require(lubridate)#Lubridate provides tools that make it easier to parse and manipulate dates.
   require(ggrepel)
   
-  timevalues <- seq(as.Date(start), as.Date(end), by = "week")
+  #start= "2019/01/04"
+  #end = "2019/12/19"
+ #url ="https://spotifycharts.com/regional/gb/weekly/"
+
+ week_start <- seq(as.Date(start), as.Date(end)-7, by = "week")
+ week_end <- seq(as.Date(start) + 7 , as.Date(end), by = "week")
+ 
+  timevalues <- paste(week_start,week_end, sep="--")
   concat.url<- function(x){
   full_url <- paste0(url, x)
   full_url
@@ -81,3 +88,5 @@ spotify %<>%
 
 spotify
 }
+
+

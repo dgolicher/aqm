@@ -4,8 +4,8 @@
 \alias{spotify_chart}
 \title{Scrapes spotify chart data}
 \usage{
-spotify_chart(start = "2019/01/03", end = "2019/12/19",
-  url = "https://spotifycharts.com/regional/gb/weekly/latest/")
+spotify_chart(start = "2019/01/0", end = "2019/12/19",
+  url = "https://spotifycharts.com/regional/gb/weekly/")
 }
 \arguments{
 \item{start}{Defaults to "2019/01/03"}
