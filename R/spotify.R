@@ -10,8 +10,8 @@
 #' @examples ## d<-spotify_chart()
 #' 
 #' 
-spotify_chart<-function(start= "2019/01/04", 
-                        end = "2019/12/19", 
+spotify_chart<-function(start= "2018/10/26", 
+                        end = Sys.Date(), 
                         url ="https://spotifycharts.com/regional/gb/weekly/"){
   # Code from https://rpubs.com/argdata/web_scraping
   require(rvest)#Easily Harvest (Scrape) Web Pages. html_nodes
@@ -22,12 +22,17 @@ spotify_chart<-function(start= "2019/01/04",
   require(lubridate)#Lubridate provides tools that make it easier to parse and manipulate dates.
   require(ggrepel)
   
-  #start= "2019/01/04"
-  #end = "2019/12/19"
- #url ="https://spotifycharts.com/regional/gb/weekly/"
+#start= "2018/10/29"
+#end = "2019/12/19"
+#url ="https://spotifycharts.com/regional/gb/weekly/"
+library(lubridate)
+start<-as.Date(start)
+end<- as.Date(end)
+start<-start + (6 - wday(start))
+end <- end +(5-wday(end))
 
- week_start <- seq(as.Date(start), as.Date(end)-7, by = "week")
- week_end <- seq(as.Date(start) + 7 , as.Date(end), by = "week")
+week_start <- seq(start, (end-7), by = "week")
+week_end <- seq((start + 7) , end, by = "week")
  
   timevalues <- paste(week_start,week_end, sep="--")
   concat.url<- function(x){
