@@ -10,6 +10,7 @@
 #' @examples ## d<-spotify_chart()
 #' 
 #' 
+#' 
 spotify_chart<-function(start= "2018/10/26", 
                         end = Sys.Date(), 
                         url ="https://spotifycharts.com/regional/gb/weekly/"){
@@ -92,6 +93,19 @@ spotify %<>%
 
 
 spotify
+}
+
+
+get_token<-function() {
+library(spotifyr)
+library(httr)
+client_id <- 'a749814f307b45fc9144e5ab6a0436e1'
+client_secret <- '7beb57b32692463589c0491d9e35f60d'
+access_token <- POST('https://accounts.spotify.com/api/token',
+                     accept_json(), authenticate(client_id, client_secret),
+                     body = list(grant_type='client_credentials'),
+                     encode = 'form', httr::config(http_version=2)) %>% content %>% .$access_token
+access_token
 }
 
 
