@@ -10,7 +10,7 @@ libs<-function(){
   library(mgcv)
 }
 
-aqm_path<-"/home/rstudio/rstudio/aqm/data/"
+
 
 #' Adds files to the users current home directory from the aqm extdata directory
 #'
