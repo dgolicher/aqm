@@ -3,9 +3,7 @@
 \name{Rsq}
 \alias{Rsq}
 \title{Prints the R Squared value as % from a fitted regression model}
-\usage{
-Rsq(mod = reg_mod, dps = 1)
-}
+
 \arguments{
 \item{mod}{Model}
 
